@@ -1,1 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rot-rag-project"
+version = "0.1.0"
+description = "Retrieval-Augmented Generation pipeline"
+authors = [
+  { name="Bilge", email="zeynepbilgeozkan@hotmail.com" }
+]
+dependencies = [
+  "faiss-cpu",
+  "fastapi",
+  "uvicorn",
+  "pydantic",
+  "transformers",
+  "sentence-transformers",
+  "pytest"
+]
 
