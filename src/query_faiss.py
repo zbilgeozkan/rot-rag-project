@@ -37,6 +37,10 @@ class FAISSQuery:
 # Test
 if __name__ == "__main__":
     faiss_query = FAISSQuery()
-    results = faiss_query.query("Your query here")
-    for r in results:
-        print(r)
+    results = faiss_query.query("Araç fren sistemini nasıl kontrol etmeliyim?", top_k=5)
+    
+    # Save in JSON file
+    output_path = "data/query_result.json"
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+    print(f"Results saved to {output_path}") 

@@ -17,9 +17,13 @@ def read_pdf_file(file_path):
     return text
 
 # Read all files
-def read_all_files(data_dir="data"):
+def read_all_files(data_dir="data", target_files=None):
     docs = {}
-    for filename in os.listdir(data_dir):
+    # If target_files not given, read all txt and pdf files
+    if target_files is None:
+        target_files = [f for f in os.listdir(data_dir) if f.lower().endswith((".txt", ".pdf"))]
+
+    for filename in target_files:
         path = os.path.join(data_dir, filename)
         if filename.lower().endswith(".txt"):
             docs[filename] = read_txt_file(path)
@@ -36,9 +40,9 @@ def chunk_text(text, chunk_size=200):
     return chunks
 
 # Metadata & pipeline
-def ingest_all(data_dir="data"):
+def ingest_all(data_dir="data", target_files=None):
     all_meta_chunks = []
-    docs = read_all_files(data_dir)
+    docs = read_all_files(data_dir, target_files)
     for filename, content in docs.items():
         chunks = chunk_text(content)
         for i, c_text in enumerate(chunks):
@@ -52,7 +56,9 @@ def ingest_all(data_dir="data"):
 
 # Test + JSON save
 if __name__ == "__main__":
-    all_chunks = ingest_all()
+    # Ensure only selected files are used
+    target_files = ["test.txt"]
+    all_chunks = ingest_all(target_files=target_files)
 
     # Display first 5 chunks based on file in terminal
     chunks_by_file = defaultdict(list)
