@@ -1,28 +1,42 @@
 import json
 import faiss
 from sentence_transformers import SentenceTransformer
+import numpy as np
 
-# Load chunks
-with open("data/chunks.json", "r", encoding="utf-8") as f:
-    chunks = json.load(f)
+class FAISSQuery:
+    def __init__(self, index_path="data/faiss_index.bin", chunks_path="data/chunks.json", model_name='all-MiniLM-L6-v2'):
+        # Load FAISS index
+        self.index = faiss.read_index(index_path)
 
-# Load FAISS index
-index = faiss.read_index("data/faiss_index.bin")
+        # Load chunks metadata
+        with open(chunks_path, "r", encoding="utf-8") as f:
+            self.chunks = json.load(f)
 
-# Load embedding model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+        # Initialize embedding model
+        self.model = SentenceTransformer(model_name)
 
-# Embed query
-query = "Your query text here"
-query_vec = model.encode([query], convert_to_numpy=True)
+    def query(self, text, top_k=5):
+        # Embed query text
+        query_vec = self.model.encode([text], convert_to_numpy=True)
 
-# Search in FAISS index
-k = 3  # number of nearest neighbors
-distances, indices = index.search(query_vec, k)
+        # Search in FAISS index
+        distances, indices = self.index.search(query_vec, top_k)
 
-# Display results
-for i, idx in enumerate(indices[0]):
-    print(f"### Similar chunk {i + 1} ###")
-    print(f"Source: {chunks[idx]['source']}, Page: {chunks[idx]['page']}")
-    print(chunks[idx]['text'])
-    print()
+        # Return matched chunks
+        results = []
+        for idx, dist in zip(indices[0], distances[0]):
+            chunk = self.chunks[idx]
+            results.append({
+                "text": chunk["text"],
+                "source": chunk["source"],
+                "page": chunk["page"],
+                "distance": float(dist)
+            })
+        return results
+
+# Test
+if __name__ == "__main__":
+    faiss_query = FAISSQuery()
+    results = faiss_query.query("Your query here")
+    for r in results:
+        print(r)

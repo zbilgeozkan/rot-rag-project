@@ -5,13 +5,13 @@ import faiss
 import numpy as np
 
 # Load chunks
-with open("data/test_chunks.json", "r", encoding="utf-8") as f:
+with open("tests/performance/test_chunks.json", "r", encoding="utf-8") as f:
     chunks = json.load(f)
 
 texts = [c['text'] for c in chunks]
 
 # Load embedding model
-model = SentenceTransformer('all-MiniLM-L6-v2')  # hızlı bir model
+model = SentenceTransformer('all-MiniLM-L6-v2')  # fast and small
 
 # Embed and time it
 start = time.time()
