@@ -1,6 +1,7 @@
 import os
 import json
 from PyPDF2 import PdfReader
+from collections import defaultdict
 
 # Read TXT
 def read_txt_file(file_path):
@@ -49,13 +50,11 @@ def ingest_all(data_dir="data"):
             all_meta_chunks.append(chunk)
     return all_meta_chunks
 
-# Test
+# Test + JSON save
 if __name__ == "__main__":
     all_chunks = ingest_all()
 
-    # Display first 5 chunks based on file
-    from collections import defaultdict
-
+    # Display first 5 chunks based on file in terminal
     chunks_by_file = defaultdict(list)
     for c in all_chunks:
         chunks_by_file[c['source']].append(c)
@@ -64,3 +63,11 @@ if __name__ == "__main__":
         print(f"\n### First 5 chunks for {filename} ###")
         for chunk in chunks[:5]:
             print(chunk)
+
+    # Saving to JSON
+    import json
+    os.makedirs("data", exist_ok=True)
+    with open("data/chunks.json", "w", encoding="utf-8") as f:
+        json.dump(all_chunks, f, ensure_ascii=False, indent=2)
+
+    print(f"\nSaved {len(all_chunks)} chunks to data/chunks.json")
