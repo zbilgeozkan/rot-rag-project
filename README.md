@@ -1,5 +1,6 @@
 # RoT RAG Project
 
+```
 my-rag-project/
 ├── src/          # source code
 ├── tests/        # test files
@@ -8,3 +9,4 @@ my-rag-project/
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
+```
