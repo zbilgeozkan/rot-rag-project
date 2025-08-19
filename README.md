@@ -58,33 +58,25 @@ Place your `.pdf` or `.txt` files inside the `data/` directory.
 
 ### Step 1: Ingest documents
 ```bash
-python src/ingest.py
+py src/ingest.py
 ```
 
-Splits documents into chunks and saves them in:
-
-```bash
-data/chunks.json
-```
+Splits documents into chunks and saves them in: `data/chunks.json`.
 
 ---
 
 ### Step 2: Build FAISS index
 ```bash
-python src/embed_faiss.py
+py src/embed_faiss.py
 ```
 
-Creates the FAISS index:
-
-```bash
-data/faiss_index.bin
-```
+Creates the FAISS index: `data/faiss_index.bin`.
 
 ---
 
 ### Step 3: Query the index
 ```bash
-python src/query_faiss.py
+py src/query_faiss.py
 ```
 
 You can update the query string inside `query_faiss.py`:
