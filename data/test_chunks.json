@@ -1,0 +1,5 @@
+[
+  {"text": "Hello world", "source": "sample.txt", "page": 0},
+  {"text": "This is a test", "source": "sample.txt", "page": 1},
+  {"text": "FAISS GPU vs CPU", "source": "sample.txt", "page": 2}
+]
