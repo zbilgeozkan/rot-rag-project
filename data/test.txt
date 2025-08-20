@@ -98,3 +98,6 @@ Instruction 97: Bilgisayar ekranının parlaklığını uygun seviyede ayarlayı
 Instruction 98: Bahçe gübrelerini doğru miktarda kullanın.
 Instruction 99: Araç içi güvenlik önlemlerini ihmal etmeyin.
 Instruction 100: Spor öncesi ısınma hareketleri ile kasları hazırlayın.
+Instruction 101: Egzersiz öncesi ısınma ve germe hareketleri yapın.
+Instruction 102: Güneş ışınlarından korunmak için güneş kremi kullanın.
+Instruction 103: Kas ağrılarını azaltmak için düzenli esneme yapın.

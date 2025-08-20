@@ -1,39 +1,49 @@
 import json
 from query_faiss import FAISSQuery
 
-def evaluate(test_cases, top_k=3):
+def evaluate(test_file="data/test_cases.json", k=3):
+    # Load test cases
+    with open(test_file, "r", encoding="utf-8") as f:
+        test_cases = json.load(f)
+
     faiss_query = FAISSQuery()
+    total = len(test_cases)
     correct = 0
+    failed_cases = []
 
     for case in test_cases:
         question = case["question"]
         expected = case["expected_keyword"]
 
-        print(f"Q: {question}")
-        print(f"Expected keyword: {expected}")
+        # Query the FAISS index
+        results = faiss_query.query(question, top_k=k)
 
-        results = faiss_query.query(question, top_k=top_k)
+        # Extract only the text fields
+        combined_text = " ".join([r["text"] for r in results]).lower()
 
-        found = False
-        for r in results:
-            print(f" - {r['text'][:100]}...")
-            if expected.lower() in r["text"].lower():
-                found = True
-
-        if found:
+        # Check if expected keyword is in the results
+        if expected.lower() in combined_text:
             correct += 1
-            print("True!")
         else:
-            print("False!")
+            failed_cases.append({
+                "question": question,
+                "expected": expected,
+                "got": [r["text"] for r in results]
+            })
 
-        print("-" * 50)
+    # Calculate accuracy
+    accuracy = correct / total * 100
 
-    accuracy = correct / len(test_cases) * 100
-    print(f"Overall accuracy: {accuracy:.2f}%")
+    print(f"Total tests: {total}")
+    print(f"Correct matches: {correct}")
+    print(f"Accuracy: {accuracy:.2f}%")
+
+    if failed_cases:
+        print("\nFailed test cases:")
+        for fail in failed_cases:
+            print(f"- Question: {fail['question']}")
+            print(f"  Expected keyword: {fail['expected']}")
+            print(f"  Retrieved results: {fail['got']}\n")
 
 if __name__ == "__main__":
-    # Read scenarios from JSON
-    with open("data/test_cases.json", "r", encoding="utf-8") as f:
-        test_cases = json.load(f)
-
-    evaluate(test_cases)
+    evaluate(k=5)  # You can adjust k for more or fewer results

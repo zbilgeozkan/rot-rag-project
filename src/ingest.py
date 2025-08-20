@@ -2,18 +2,33 @@ import os
 import json
 from PyPDF2 import PdfReader
 from collections import defaultdict
+import re
+
+def clean_text(text):
+    """
+    Clean extracted text:
+    - Remove repeated dots
+    - Replace multiple whitespaces with a single space
+    - Remove page headers/footers like 'Page 1 of 10'
+    """
+    text = re.sub(r'\.{2,}', '.', text)          # Replace multiple dots with one
+    text = re.sub(r'Page \d+ of \d+', '', text)  # Remove page headers
+    text = re.sub(r'\s+', ' ', text)             # Collapse multiple spaces
+    return text.strip()
 
 # Read TXT
 def read_txt_file(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
-        return f.read()
+        return clean_text(f.read())
 
 # Read PDF
 def read_pdf_file(file_path):
     text = ""
     reader = PdfReader(file_path)
     for page in reader.pages:
-        text += page.extract_text() + "\n"
+        page_text = page.extract_text()
+        if page_text:
+            text += clean_text(page_text) + "\n"
     return text
 
 # Read all files
@@ -32,7 +47,7 @@ def read_all_files(data_dir="data", target_files=None):
     return docs
 
 # Chunk
-def chunk_text(text, chunk_size=200):
+def chunk_text(text, chunk_size=100):
     words = text.split()
     chunks = []
     for i in range(0, len(words), chunk_size):
@@ -57,7 +72,7 @@ def ingest_all(data_dir="data", target_files=None):
 # Test + JSON save
 if __name__ == "__main__":
     # Ensure only selected files are used
-    target_files = ["test.txt"]
+    target_files = ["headset_user_manual.pdf"]
     all_chunks = ingest_all(target_files=target_files)
 
     # Display first 5 chunks based on file in terminal

@@ -1,158 +1,42 @@
 [
   {
-    "question": "Aracımın deposuna hangi yakıt koymam gerekir?",
-    "expected_keyword": "yakıt"
+    "question": "How do I wear the Gear VR headset?",
+    "expected_keyword": "gear vr"
   },
   {
-    "question": "Lastiklerin hava basıncı ne kadar sürede bir kontrol edilmeli?",
-    "expected_keyword": "lastik"
+    "question": "What should I do before using the Gear VR headset?",
+    "expected_keyword": "before using the gear vr"
   },
   {
-    "question": "Bilgisayarım çok yavaşladı, hızını artırmak için neler yapabilirim?",
-    "expected_keyword": "bilgisayar"
+    "question": "Where can I find the instructions to install the mobile device?",
+    "expected_keyword": "installing the mobile device"
   },
   {
-    "question": "Evde yangın güvenliği için alınması gereken ekipmanlar nelerdir?",
-    "expected_keyword": "yangın"
+    "question": "How can I remove the mobile device from the headset?",
+    "expected_keyword": "removing the mobile device"
   },
   {
-    "question": "Aracın fren sistemi ile ilgili bakım ne zaman yapılmalı?",
-    "expected_keyword": "fren"
+    "question": "How do I connect the headset?",
+    "expected_keyword": "connecting a headset"
   },
   {
-    "question": "Ofiste uzun süre oturunca belim ağrıyor, ne yapmalıyım?",
-    "expected_keyword": "ergonomik"
+    "question": "Where can I find the charger instructions?",
+    "expected_keyword": "using the charger"
   },
   {
-    "question": "Spor salonunda sakatlanmamak için nelere dikkat etmeliyim?",
-    "expected_keyword": "spor"
+    "question": "How do I navigate using the touchpad?",
+    "expected_keyword": "touchpad"
   },
   {
-    "question": "Veri kaybını önlemek için hangi yöntemleri kullanabilirim?",
-    "expected_keyword": "yedek"
+    "question": "How can I make a selection in VR?",
+    "expected_keyword": "making a selection"
   },
   {
-    "question": "Telefon şarj kablom çabuk bozuluyor, nasıl koruyabilirim?",
-    "expected_keyword": "şarj"
+    "question": "Where can I find the home screen navigation instructions?",
+    "expected_keyword": "home screen"
   },
   {
-    "question": "Bahçeyi sulamak için en uygun zaman nedir?",
-    "expected_keyword": "bahçe"
-  },
-  {
-    "question": "Kış aylarında arabanın aküsü donmaması için ne yapılmalı?",
-    "expected_keyword": "akü"
-  },
-  {
-    "question": "Ekran karşısında çalışırken göz sağlığımı korumak için ne yapmalıyım?",
-    "expected_keyword": "göz"
-  },
-  {
-    "question": "Mutfakta yangın çıkarsa ilk olarak ne yapılmalı?",
-    "expected_keyword": "yangın"
-  },
-  {
-    "question": "Bilgisayarımda virüs olup olmadığını nasıl anlarım?",
-    "expected_keyword": "virüs"
-  },
-  {
-    "question": "Dışarı çıkmadan önce hava durumunu nasıl kontrol etmeliyim?",
-    "expected_keyword": "hava"
-  },
-  {
-    "question": "Telefonumun bataryasını uzun ömürlü kullanmak için nelere dikkat etmeliyim?",
-    "expected_keyword": "batarya"
-  },
-  {
-    "question": "Aracın motor yağı ne sıklıkla değiştirilmelidir?",
-    "expected_keyword": "yağ"
-  },
-  {
-    "question": "Bisiklet sürerken güvenliğim için hangi ekipmanları kullanmalıyım?",
-    "expected_keyword": "kask"
-  },
-  {
-    "question": "Elektrik faturasını düşürmek için hangi tasarruf yöntemlerini uygulayabilirim?",
-    "expected_keyword": "tasarruf"
-  },
-  {
-    "question": "Evcil hayvanım için en uygun mama nasıl seçilir?",
-    "expected_keyword": "mama"
-  },
-  {
-    "question": "Yemekleri taze tutmak için buzdolabında nasıl saklamalıyım?",
-    "expected_keyword": "buzdolabı"
-  },
-  {
-    "question": "Kütüphanede ders çalışırken daha verimli olmak için neler yapmalıyım?",
-    "expected_keyword": "verimli"
-  },
-  {
-    "question": "Telefonumun internet paketi çok hızlı bitiyor, nasıl tasarruf edebilirim?",
-    "expected_keyword": "internet"
-  },
-  {
-    "question": "Araba ile uzun yola çıkmadan önce hangi kontroller yapılmalı?",
-    "expected_keyword": "kontrol"
-  },
-  {
-    "question": "Evimde hırsızlığa karşı ne gibi önlemler almalıyım?",
-    "expected_keyword": "hırsız"
-  },
-  {
-    "question": "Kışın ellerim çok kuruyor, hangi yöntemlerle nemlendirebilirim?",
-    "expected_keyword": "krem"
-  },
-  {
-    "question": "Ders çalışırken dikkatimi nasıl daha iyi toplayabilirim?",
-    "expected_keyword": "dikkat"
-  },
-  {
-    "question": "Sıcak yaz günlerinde klimayı nasıl daha verimli kullanabilirim?",
-    "expected_keyword": "klima"
-  },
-  {
-    "question": "Bisiklet zinciri paslandığında nasıl temizlenmeli?",
-    "expected_keyword": "zincir"
-  },
-  {
-    "question": "Bilgisayar donanımı yükseltmek için hangi parçalar önceliklidir?",
-    "expected_keyword": "ram"
-  },
-  {
-    "question": "Telefonum suya düştü, ne yapmalıyım?",
-    "expected_keyword": "pirinç"
-  },
-  {
-    "question": "Bahçede sebzeleri böceklerden korumak için ne kullanılabilir?",
-    "expected_keyword": "ilaç"
-  },
-  {
-    "question": "Uzun süre otobüs yolculuğunda rahat etmek için nelere dikkat etmeliyim?",
-    "expected_keyword": "yastık"
-  },
-  {
-    "question": "Arabanın camları buğulandığında nasıl temizlenir?",
-    "expected_keyword": "cam"
-  },
-  {
-    "question": "Telefon hafızam doldu, hangi yöntemlerle yer açabilirim?",
-    "expected_keyword": "hafıza"
-  },
-  {
-    "question": "Kış aylarında ev ısısını korumak için hangi yöntemler kullanılmalı?",
-    "expected_keyword": "izolasyon"
-  },
-  {
-    "question": "Egzersizden sonra kas ağrılarını azaltmak için ne yapılmalı?",
-    "expected_keyword": "esneme"
-  },
-  {
-    "question": "Güneş ışınlarından korunmak için yaz aylarında ne kullanılmalı?",
-    "expected_keyword": "güneş"
-  },
-  {
-    "question": "Arabanın silecekleri su izleri bırakıyorsa ne yapılmalı?",
-    "expected_keyword": "silecek"
+    "question": "How do I load new applications?",
+    "expected_keyword": "loading"
   }
 ]
