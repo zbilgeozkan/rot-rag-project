@@ -10,19 +10,29 @@ ROT-RAG-PROJECT/
 ├── data/                    # Documents and generated artifacts
 │ ├── chunks.json            # Generated text chunks
 │ ├── faiss_index.bin        # FAISS index file
+| ├── user_manual.pdf        # Main source
+| ├── query_result.json      # Sample query results
+| ├── test_cases.json        # questions & expected answers
 │ ├── sample.pdf             # Example PDF document
 │ └── test.txt               # Example TXT document
 │
+├── rag/                           # RAG application code
+│   ├── app.py                     # FastAPI app (serves RAG pipeline via API)
+│   ├── llm_wrapper.py             # LLM interface
+│   └── query_faiss.py             # Query FAISS index
+|
 ├── src/                     # Source code
 │ ├── embed_faiss.py         # Build FAISS index from chunks
 │ ├── ingest.py              # Process documents into chunks
-│ └── query_faiss.py         # Query the FAISS index
+│ └── eval_rag.py            # Evaluate retrieval quality with test cases
 │
 ├── tests/                   # Unit / integration tests
 │   └── performance/
-│       ├── test_faiss_speed.py   # Performance testing for FAISS
-│       └── test_chunks.json      # Test chunks for benchmarking
+│       ├── test_faiss_speed.py    # Performance testing for FAISS
+│       └── test_chunks.json       # Test chunks for benchmarking
 │
+├── test_rag.py              # Root-level API test via HTTP (requests)
+|
 ├── .gitignore
 ├── Dockerfile               # Containerization support
 ├── LICENSE
@@ -56,27 +66,23 @@ Place your `.pdf` or `.txt` files inside the `data/` directory.
 
 ## Usage
 
-### Step 1: Ingest documents
+- ### Step 1: Ingest documents
 ```bash
 py src/ingest.py
 ```
 
 Splits documents into chunks and saves them in: `data/chunks.json`.
 
----
-
-### Step 2: Build FAISS index
+- ### Step 2: Build FAISS index
 ```bash
 py src/embed_faiss.py
 ```
 
 Creates the FAISS index: `data/faiss_index.bin`.
 
----
-
-### Step 3: Query the index
+- ### Step 3: Query the index
 ```bash
-py src/query_faiss.py
+py rag/query_faiss.py
 ```
 
 You can update the query string inside `query_faiss.py`:
@@ -85,7 +91,7 @@ You can update the query string inside `query_faiss.py`:
 results = faiss_query.query("Your question here")
 ```
 
-## Example output
+* Example output:
 ```json
 {
   "text": "Example content from document...",
@@ -94,6 +100,12 @@ results = faiss_query.query("Your question here")
   "distance": 0.12345
 }
 ```
+
+- ### Step 4: Run the API
+```bash
+uvicorn rag.app:app --reload
+```
+Then open http://127.0.0.1:8000/docs to test the API.
 
 ## Notes
 - Replace `sample.pdf` and `test.txt` with your own content for meaningful results.
