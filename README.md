@@ -1,7 +1,6 @@
 # RoT RAG Project
 
-This project demonstrates a simple Retrieval Augmented Generation (RAG) pipeline 
-using **FAISS** for vector search and **SentenceTransformers** for embeddings.
+A **Retrieval Augmented Generation (RAG) pipeline** implemented in Python. Documents are **ingested and split into chunks**, then **embedded using SentenceTransformers** and indexed with **FAISS** for fast semantic search. A **FastAPI backend** exposes an API for querying the indexed documents, and responses are generated using the **OpenAI API** based on retrieved passages. Includes example scripts for **index building** and **query testing**, and is fully **Docker-ready** for deployment.
 
 
 ## Project Structure
