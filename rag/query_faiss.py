@@ -37,7 +37,7 @@ class FAISSQuery:
 # Test
 if __name__ == "__main__":
     faiss_query = FAISSQuery()
-    results = faiss_query.query("Araç fren sistemini nasıl kontrol etmeliyim?", top_k=5)
+    results = faiss_query.query("How do I wear the Gear VR headset?", top_k=5)
     
     # Save in JSON file
     output_path = "data/query_result.json"
