@@ -1,332 +1,681 @@
 [
   {
-    "text": "User Manual Please read this manual before operating your device and keep it for future reference. iTable of Contents Intellectual Property . iii Disclaimer of Warranties; Exclusion of Liability . iv Support . 6 Read me first . 7 Wearing the Gear VR . 8 Before Using the Gear VR Headset . 10 About the Gear VR . 11 Additional Notifications . 12 Device Functions . 14 Function Overview . 18 Setting Up the Device . 19 Installing the straps . 19 Installing the Mobile Device . 22Beginning the Software Installation . 27 Wearing the Gear VR . 28 Removing",
-    "source": "headset_user_manual.pdf",
-    "page": 0
+    "id": "user_manual.pdf_chunk_0",
+    "text": "User Manual Please read this manual before operating your device and keep it for future reference.",
+    "source": "user_manual.pdf",
+    "page": 0,
+    "title": "Unknown"
   },
   {
-    "text": "the Mobile Device . 29 Connecting a Headset . 30 Using the Charger . 31 Installing Gear VR Software . 33 Completing the Set Up Process . 34 Basic Navigation and Selection . 35 Using the Touchpad . 35 Moving the Pointer . 38 Making a Selection . 39 Navigation - Home Screen . 40 Navigation - App Screen . 41 Using the Universal Menu . 44 Calls . 49 Viewing Notifications . 50 WEA_SM-R322_EN_UM_PS_110415_FINAL iiApplications . 51 Loading New Applications . 51 Uninstalling Existing Applications . 52 Updating Applications . 52 Oculus Video . 53 VR Gallery . 54",
-    "source": "headset_user_manual.pdf",
-    "page": 1
+    "id": "user_manual.pdf_chunk_1",
+    "text": "iTable of Contents Intellectual Property . iii Disclaimer of Warranties; Exclusion of Liability . iv Support . 6 Read me first . 7 Wearing the Gear VR . 8 Before Using the Gear VR Headset . 10 About the Gear VR . 11 Additional Notifications . 12 Device Functions . 14 Function Overview . 18 Setting Up the Device . 19 Installing the straps . 19 Installing the Mobile Device . 22Beginning the Software Installation . 27 Wearing the Gear VR . 28 Removing the Mobile Device . 29 Connecting a Headset . 30 Using the Charger . 31 Installing",
+    "source": "user_manual.pdf",
+    "page": 1,
+    "title": "Unknown"
   },
   {
-    "text": "Oculus 360 Videos . 55 Oculus 360 Photos . 56 iiiREAD THIS INFORMATION BEFORE USING YOUR DEVICE. Samsung Limited Warranty - This product is covered under the applicable Samsung Limited Warranty including its dispute resolution procedure. Warning! This product contains chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, please call 1-800-SAMSUNG (726-7864). Intellectual Property All Intellectual Property, as defined below, owned by or which is otherwise the property of Samsung or its respective suppliers relating to the SAMSUNG mobile device, including but not limited to, accessories, parts, or software",
-    "source": "headset_user_manual.pdf",
-    "page": 2
+    "id": "user_manual.pdf_chunk_2",
+    "text": "Gear VR Software . 33 Completing the Set Up Process . 34 Basic Navigation and Selection . 35 Using the Touchpad . 35 Moving the Pointer . 38 Making a Selection . 39 Navigation - Home Screen . 40 Navigation - App Screen . 41 Using the Universal Menu . 44 Calls . 49 Viewing Notifications . 50 WEA_SM-R322_EN_UM_PS_110415_FINAL",
+    "source": "user_manual.pdf",
+    "page": 1,
+    "title": "Unknown"
   },
   {
-    "text": "relating thereto (the “mobile device”), is proprietary to Samsung and protected under federal laws, state laws, and international treaty provisions. Intellectual Property includes, but is not limited to, inventions (patentable or unpatentable), patents, trade secrets, copyrights, software, computer programs, and related documentation and other works of authorship. You may not infringe or otherwise violate the rights secured by the Intellectual Property. Moreover, you agree that you will not (and will not attempt to) modify, prepare derivative works of, reverse engineer, decompile, disassemble, or otherwise attempt to create source code from the software. No title to or ownership in the Intellectual",
-    "source": "headset_user_manual.pdf",
-    "page": 3
+    "id": "user_manual.pdf_chunk_3",
+    "text": "iiApplications . 51 Loading New Applications . 51 Uninstalling Existing Applications . 52 Updating Applications . 52 Oculus Video . 53 VR Gallery . 54 Oculus 360 Videos . 55 Oculus 360 Photos . 56",
+    "source": "user_manual.pdf",
+    "page": 2,
+    "title": "Intellectual Property"
   },
   {
-    "text": "Property is transferred to you. All applicable rights of the Intellectual Property shall remain with SAMSUNG and its suppliers. ivDisclaimer of Warranties; Exclusion of Liability EXCEPT AS SET FORTH IN THE EXPRESS WARRANTY CONTAINED ON THE WARRANTY PAGE ENCLOSED WITH THE PRODUCT, THE PURCHASER TAKES THE PRODUCT “AS IS”, AND SAMSUNG MAKES NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT, INCLUDING BUT NOT LIMITED TO THE MERCHANTABILITY OF THE PRODUCT OR ITS FITNESS FOR ANY PARTICULAR PURPOSE OR USE; THE DESIGN, CONDITION OR QUALITY OF THE PRODUCT; THE PERFORMANCE OF THE PRODUCT; THE WORKMANSHIP",
-    "source": "headset_user_manual.pdf",
-    "page": 4
+    "id": "user_manual.pdf_chunk_4",
+    "text": "iiiREAD THIS INFORMATION BEFORE USING YOUR DEVICE. Samsung Limited Warranty - This product is covered under the applicable Samsung Limited Warranty including its dispute resolution procedure. Warning! This product contains chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, please call 1-800-SAMSUNG (726-7864). Intellectual Property All Intellectual Property, as defined below, owned by or which is otherwise the property of Samsung or its respective suppliers relating to the SAMSUNG mobile device, including but not limited to, accessories, parts, or software relating thereto (the “mobile device”), is proprietary to Samsung and",
+    "source": "user_manual.pdf",
+    "page": 3,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "OF THE PRODUCT OR THE COMPONENTS CONTAINED THEREIN; OR COMPLIANCE OF THE PRODUCT WITH THE REQUIREMENTS OF ANY LAW, RULE, SPECIFICATION OR CONTRACT PERTAINING THERETO. NOTHING CONTAINED IN THE INSTRUCTION MANUAL SHALL BE CONSTRUED TO CREATE AN EXPRESS OR IMPLIED WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT. IN ADDITION, SAMSUNG SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RESULTING FROM THE PURCHASE OR USE OF THE PRODUCT OR ARISING FROM THE BREACH OF THE EXPRESS WARRANTY, INCLUDING INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR LOSS OF ANTICIPATED PROFITS OR BENEFITS. Modification of Software SAMSUNG IS NOT",
-    "source": "headset_user_manual.pdf",
-    "page": 5
+    "id": "user_manual.pdf_chunk_5",
+    "text": "protected under federal laws, state laws, and international treaty provisions. Intellectual Property includes, but is not limited to, inventions (patentable or unpatentable), patents, trade secrets, copyrights, software, computer programs, and related documentation and other works of authorship. You may not infringe or otherwise violate the rights secured by the Intellectual Property. Moreover, you agree that you will not (and will not attempt to) modify, prepare derivative works of, reverse engineer, decompile, disassemble, or otherwise attempt to create source code from the software. No title to or ownership in the Intellectual Property is transferred to you. All applicable rights of the",
+    "source": "user_manual.pdf",
+    "page": 3,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "LIABLE FOR PERFORMANCE ISSUES OR INCOMPATIBILITIES CAUSED BY YOUR EDITING OF REGISTRY SETTINGS, OR YOUR MODIFICATION OF OPERATING SYSTEM SOFTWARE. USING CUSTOM OPERATING SYSTEM SOFTWARE MAY CAUSE YOUR DEVICE AND APPLICATIONS TO WORK IMPROPERLY. YOUR CARRIER MAY NOT PERMIT USERS TO DOWNLOAD CERTAIN SOFTWARE, SUCH AS CUSTOM OS. vSamsung Electronics America (SEA), Inc Address: 85 Challenger Road Ridgefield Park, New Jersey 07660 Phone: 1-800-SAMSUNG (726-7864) Internet Address: www.samsung.com ©2015 Samsung Electronics America, Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd. Do you have questions about your Samsung Mobile Device? For 24 hour information and assistance, we offer",
-    "source": "headset_user_manual.pdf",
-    "page": 6
+    "id": "user_manual.pdf_chunk_6",
+    "text": "Intellectual Property shall remain with SAMSUNG and its suppliers.",
+    "source": "user_manual.pdf",
+    "page": 3,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "a new FAQ/ARS System (Automated Response System) at: www.samsung.com/us/support 6Support Warning! This product contains chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, please call 1-800-SAMSUNG (726-7864). This guide provides you with the information you need to get started. For more information and additional support, please visit the main www.samsung.com support page. • Get support for your Samsung Gear VR online. • Review your Gear VR’s troubleshooting FAQs, and solutions. Note: Mobile devices and software are constantly evolving—screen images you see here are for reference only. Note: The Gear VR",
-    "source": "headset_user_manual.pdf",
-    "page": 7
+    "id": "user_manual.pdf_chunk_7",
+    "text": "ivDisclaimer of Warranties; Exclusion of Liability EXCEPT AS SET FORTH IN THE EXPRESS WARRANTY CONTAINED ON THE WARRANTY PAGE ENCLOSED WITH THE PRODUCT, THE PURCHASER TAKES THE PRODUCT “AS IS”, AND SAMSUNG MAKES NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT, INCLUDING BUT NOT LIMITED TO THE MERCHANTABILITY OF THE PRODUCT OR ITS FITNESS FOR ANY PARTICULAR PURPOSE OR USE; THE DESIGN, CONDITION OR QUALITY OF THE PRODUCT; THE PERFORMANCE OF THE PRODUCT; THE WORKMANSHIP OF THE PRODUCT OR THE COMPONENTS CONTAINED THEREIN; OR COMPLIANCE OF THE PRODUCT WITH THE REQUIREMENTS OF ANY LAW,",
+    "source": "user_manual.pdf",
+    "page": 4,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "and its connected mobile device should only be used with firmware versions that were approved for use by the device manufacturer. Important : Some third-party Android “cleanup” programs may recognize the Oculus folder and files as content to remove and then prompt you to “clean” the related material. Taking this action will delete your Oculus data used by your Gear VR and you must reinstall your content. For additional information, please visit: www.samsung.com/us/gearsupport . 7Read me first Please read this guide before using the Gear VR to ensure safe and proper use. The Gear VR is an Innovator Edition device",
-    "source": "headset_user_manual.pdf",
-    "page": 8
+    "id": "user_manual.pdf_chunk_8",
+    "text": "RULE, SPECIFICATION OR CONTRACT PERTAINING THERETO. NOTHING CONTAINED IN THE INSTRUCTION MANUAL SHALL BE CONSTRUED TO CREATE AN EXPRESS OR IMPLIED WARRANTY OF ANY KIND WHATSOEVER WITH RESPECT TO THE PRODUCT. IN ADDITION, SAMSUNG SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RESULTING FROM THE PURCHASE OR USE OF THE PRODUCT OR ARISING FROM THE BREACH OF THE EXPRESS WARRANTY, INCLUDING INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR LOSS OF ANTICIPATED PROFITS OR BENEFITS. Modification of Software SAMSUNG IS NOT LIABLE FOR PERFORMANCE ISSUES OR INCOMPATIBILITIES CAUSED BY YOUR EDITING OF REGISTRY SETTINGS, OR YOUR MODIFICATION OF OPERATING SYSTEM",
+    "source": "user_manual.pdf",
+    "page": 4,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "intended specifically for developers and early adopters of technology. The Gear VR does not require charging. • Descriptions in this guide are based on the mobile device’s default settings. • The Gear VR must be connected with a compatible mobile device when in use. The Gear VR cannot be operated by itself. Compatible devices include: –Samsung Galaxy Note 5, Samsung Galaxy S6 edge+, Samsung Galaxy S6, or Samsung Galaxy S6 edge. Important : Use the Gear VR for its intended purpose only. Using the Gear VR for other purposes may result in injury. Some languages or content may not be",
-    "source": "headset_user_manual.pdf",
-    "page": 9
+    "id": "user_manual.pdf_chunk_9",
+    "text": "SOFTWARE. USING CUSTOM OPERATING SYSTEM SOFTWARE MAY CAUSE YOUR DEVICE AND APPLICATIONS TO WORK IMPROPERLY. YOUR CARRIER MAY NOT PERMIT USERS TO DOWNLOAD CERTAIN SOFTWARE, SUCH AS CUSTOM OS.",
+    "source": "user_manual.pdf",
+    "page": 4,
+    "title": "Disclaimer of Warranties; Exclusion of Liability"
   },
   {
-    "text": "available depending on the region or network. To view the open source license for the Gear VR, refer to opensource.samsung.com . 8Wearing the Gear VR Warning! Although eyeglasses can be worn inside Gear VR, they should be removed if the user experiences discomfort. If the discomfort continues and these glasses are not removed, this could cause facial injuries. If you have poor eyesight, we recommended wearing contact lenses when using the Gear VR. Note: Keep the lenses clean and protect them from getting scratched. If the lenses get dirty or steam up, clean them with the lens cleaning cloth. Caution",
-    "source": "headset_user_manual.pdf",
-    "page": 10
+    "id": "user_manual.pdf_chunk_10",
+    "text": "vSamsung Electronics America (SEA), Inc Address: 85 Challenger Road Ridgefield Park, New Jersey 07660 Phone: 1-800-SAMSUNG (726-7864) Internet Address: www.samsung.com ©2015 Samsung Electronics America, Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd. Do you have questions about your Samsung Mobile Device? For 24 hour information and assistance, we offer a new FAQ/ARS System (Automated Response System) at: www.samsung.com/us/support",
+    "source": "user_manual.pdf",
+    "page": 5,
+    "title": "Support"
   },
   {
-    "text": ": The Gear VR can be affected by magnetic interference created by items, such as computers, TVs, or electric cables. Avoid using the Gear VR in areas affected by magnetic interference. Ensure that you have read the warnings below carefully before using the Gear VR to reduce the risk of personal injury, discomfort, or property damage. These Health and Safety warnings are periodically updated for accuracy and completeness. Check both www.samsung.com and oculus.com/warnings for the latest updated content. • The Gear VR should not be used by children under the age of 13. Watching videos or playing games with the",
-    "source": "headset_user_manual.pdf",
-    "page": 11
+    "id": "user_manual.pdf_chunk_11",
+    "text": "6Support Warning! This product contains chemicals known to the State of California to cause cancer, birth defects, or other reproductive harm. For more information, please call 1-800-SAMSUNG (726-7864). This guide provides you with the information you need to get started. For more information and additional support, please visit the main www.samsung.com support page. • Get support for your Samsung Gear VR online. • Review your Gear VR’s troubleshooting FAQs, and solutions. Note: Mobile devices and software are constantly evolving—screen images you see here are for reference only. Note: The Gear VR and its connected mobile device should only be used",
+    "source": "user_manual.pdf",
+    "page": 6,
+    "title": "Read me first"
   },
   {
-    "text": "Gear VR may affect the visual development of children. 9• When children, age 13 or older, use the Gear VR, adults should limit their usage time and ensure they take frequent breaks. Adults should monitor children closely after using the Gear VR if children feel discomfort. • The factory lens protectors are pre-installed on the Gear VR. • Remove these lens protectors before you use the Gear VR so you can see clearly. • Ensure the lenses are not scratched and keep them clean for clear visibility. • The foam cushioning may get dirty if your face is sweating while",
-    "source": "headset_user_manual.pdf",
-    "page": 12
+    "id": "user_manual.pdf_chunk_12",
+    "text": "with firmware versions that were approved for use by the device manufacturer. Important : Some third-party Android “cleanup” programs may recognize the Oculus folder and files as content to remove and then prompt you to “clean” the related material. Taking this action will delete your Oculus data used by your Gear VR and you must reinstall your content. For additional information, please visit: www.samsung.com/us/gearsupport .",
+    "source": "user_manual.pdf",
+    "page": 6,
+    "title": "Read me first"
   },
   {
-    "text": "wearing the Gear VR. Doing so may deteriorate the quality of the foam cushioning. Ensure that you keep your face clean and dry when wearing the Gear VR. • When you remove the Gear VR from your head, the mobile device’s screen locks and the touch pad stops working. • The Gear VR produces an immersive virtual reality experience that distracts you from and blocks your view of your actual surroundings. For the safest experience, always remain seated or stationary when using the Gear VR. • Take special care to ensure that you are not near other people, objects, stairs,",
-    "source": "headset_user_manual.pdf",
-    "page": 13
+    "id": "user_manual.pdf_chunk_13",
+    "text": "7Read me first Please read this guide before using the Gear VR to ensure safe and proper use. The Gear VR is an Innovator Edition device intended specifically for developers and early adopters of technology. The Gear VR does not require charging. • Descriptions in this guide are based on the mobile device’s default settings. • The Gear VR must be connected with a compatible mobile device when in use. The Gear VR cannot be operated by itself. Compatible devices include: –Samsung Galaxy Note 5, Samsung Galaxy S6 edge+, Samsung Galaxy S6, or Samsung Galaxy S6 edge. Important : Use",
+    "source": "user_manual.pdf",
+    "page": 7,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "balconies, windows, furniture, or other items that you can bump into or knock down when using, or immediately after using, the Gear VR. Do not handle sharp or otherwise dangerous objects while using the Gear VR. • Never wear the Gear VR in situations that require attention, such as walking, bicycling, or driving. 10• When you are not wearing the Gear VR, do not place objects on the Gear VR’s proximity sensor. Doing so may cause the proximity sensor to stay on and drain the battery. • Refer to your mobile device online support material for more information. Before Using",
-    "source": "headset_user_manual.pdf",
-    "page": 14
+    "id": "user_manual.pdf_chunk_14",
+    "text": "the Gear VR for its intended purpose only. Using the Gear VR for other purposes may result in injury. Some languages or content may not be available depending on the region or network. To view the open source license for the Gear VR, refer to opensource.samsung.com .",
+    "source": "user_manual.pdf",
+    "page": 7,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "the Gear VR Headset • Read and follow all set up and operating instructions provided with the Gear VR. • The Gear VR should be adjusted for each individual user, and calibrated by using the configuration software (if available) before starting a virtual reality experience. Failure to follow this instruction may increase the risk of discomfort. • People who are prone to motion sickness in the real world also have a heightened risk of experiencing discomfort while using the Gear VR. Such individuals should take extra care to read and follow these warnings carefully. • We recommend consulting with a",
-    "source": "headset_user_manual.pdf",
-    "page": 15
+    "id": "user_manual.pdf_chunk_15",
+    "text": "8Wearing the Gear VR Warning! Although eyeglasses can be worn inside Gear VR, they should be removed if the user experiences discomfort. If the discomfort continues and these glasses are not removed, this could cause facial injuries. If you have poor eyesight, we recommended wearing contact lenses when using the Gear VR. Note: Keep the lenses clean and protect them from getting scratched. If the lenses get dirty or steam up, clean them with the lens cleaning cloth. Caution : The Gear VR can be affected by magnetic interference created by items, such as computers, TVs, or electric cables. Avoid",
+    "source": "user_manual.pdf",
+    "page": 8,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "doctor before using the Gear VR if you are pregnant, elderly, have psychiatric disorders, suffer from a heart condition, have pre-existing binocular vision abnormalities or suffer from a heart condition or other serious medical condition. • Do not use the Gear VR if you have symptoms of squint, amblyopia, or anisometropia. Using the Gear VR may aggravate these symptoms. 11• Do not use the Gear VR when the attached mobile device is hot as this may cause burns. To prevent any injuries, take frequent breaks when using the Gear VR. • Make sure the Gear VR is level and secured",
-    "source": "headset_user_manual.pdf",
-    "page": 16
+    "id": "user_manual.pdf_chunk_16",
+    "text": "using the Gear VR in areas affected by magnetic interference. Ensure that you have read the warnings below carefully before using the Gear VR to reduce the risk of personal injury, discomfort, or property damage. These Health and Safety warnings are periodically updated for accuracy and completeness. Check both www.samsung.com and oculus.com/warnings for the latest updated content. • The Gear VR should not be used by children under the age of 13. Watching videos or playing games with the Gear VR may affect the visual development of children.",
+    "source": "user_manual.pdf",
+    "page": 8,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "comfortably on your head, and that you see a single, clear image. If you wear the Gear VR tilted to one side, you may feel discomfort. • Just as with the symptoms people can experience after they disembark a cruise ship, symptoms of virtual reality exposure can persist and become more apparent hours after use. • These post-use symptoms can include the symptoms above, as well as excessive drowsiness and decreased ability to multi-task. These symptoms may put you at an increased risk of injury when engaging in normal activities in the real world. About the Gear VR The Samsung",
-    "source": "headset_user_manual.pdf",
-    "page": 17
+    "id": "user_manual.pdf_chunk_17",
+    "text": "9• When children, age 13 or older, use the Gear VR, adults should limit their usage time and ensure they take frequent breaks. Adults should monitor children closely after using the Gear VR if children feel discomfort. • The factory lens protectors are pre-installed on the Gear VR. • Remove these lens protectors before you use the Gear VR so you can see clearly. • Ensure the lenses are not scratched and keep them clean for clear visibility. • The foam cushioning may get dirty if your face is sweating while wearing the Gear VR. Doing so may deteriorate the",
+    "source": "user_manual.pdf",
+    "page": 9,
+    "title": "Before Using the Gear VR Headset"
   },
   {
-    "text": "Gear™ VR powered by Oculus™ (also referred to as Gear VR) is a headmounted, virtual reality device that provides an immersive experience for a wide range of users. When you connect a compatible mobile device to the Gear VR, you can enjoy multimedia content and play games by launching apps on the mobile device. You can use the Gear VR with these compatible mobile devices and use it to interact with other external devices, such as a game controller or a Bluetooth headset. 12Additional Notifications • The connected mobile device may become hotter than normal when used with the Gear",
-    "source": "headset_user_manual.pdf",
-    "page": 18
+    "id": "user_manual.pdf_chunk_18",
+    "text": "quality of the foam cushioning. Ensure that you keep your face clean and dry when wearing the Gear VR. • When you remove the Gear VR from your head, the mobile device’s screen locks and the touch pad stops working. • The Gear VR produces an immersive virtual reality experience that distracts you from and blocks your view of your actual surroundings. For the safest experience, always remain seated or stationary when using the Gear VR. • Take special care to ensure that you are not near other people, objects, stairs, balconies, windows, furniture, or other items that you can",
+    "source": "user_manual.pdf",
+    "page": 9,
+    "title": "Before Using the Gear VR Headset"
   },
   {
-    "text": "VR, especially if you use the devices to play games for an extended period. When the Gear VR detects a high temperature, the quality of the application may be degraded or VR applications may be terminated in order to prevent overheating. This is normal and does not affect the mobile device’s lifespan or performance. • The mobile device’s battery runtime may become shorter than normal when it is used with the Gear VR since VR applications use more of the device’s resources and may contribute to battery drain. • You may experience slow loading speed or diminished playback quality in",
-    "source": "headset_user_manual.pdf",
-    "page": 19
+    "id": "user_manual.pdf_chunk_19",
+    "text": "bump into or knock down when using, or immediately after using, the Gear VR. Do not handle sharp or otherwise dangerous objects while using the Gear VR. • Never wear the Gear VR in situations that require attention, such as walking, bicycling, or driving.",
+    "source": "user_manual.pdf",
+    "page": 9,
+    "title": "Before Using the Gear VR Headset"
   },
   {
-    "text": "some circumstances, such as after extended use (to prevent the device from overheating) or if your carrier or Wi-Fi network is slow or out of range. • The availability of VR-enabled content and applications and language support may vary by region. Note: Use only Samsung-approved accessories. Using unapproved accessories may cause performance problems and malfunctions that are not covered by the warranty. 13Note: Factory lens protectors are pre-installed on the Gear VR. Remove the lens protectors before you use the Gear VR so you can see clearly. Note: When you are not wearing the Gear VR, do not place objects",
-    "source": "headset_user_manual.pdf",
-    "page": 20
+    "id": "user_manual.pdf_chunk_20",
+    "text": "10• When you are not wearing the Gear VR, do not place objects on the Gear VR’s proximity sensor. Doing so may cause the proximity sensor to stay on and drain the battery. • Refer to your mobile device online support material for more information. Before Using the Gear VR Headset • Read and follow all set up and operating instructions provided with the Gear VR. • The Gear VR should be adjusted for each individual user, and calibrated by using the configuration software (if available) before starting a virtual reality experience. Failure to follow this instruction may increase the",
+    "source": "user_manual.pdf",
+    "page": 10,
+    "title": "About the Gear VR"
   },
   {
-    "text": "on the internal proximity sensor. Doing so may cause the proximity sensor to remain on and drain the connected mobile device’s battery. 14Device Functions Focus Adjustment Wheel USB Connector Strap Loop Device Holder (left) Charging PortDevice Holder (right) Note: The connected Gear VR does not require charging because it obtains power from the connected mobile device. 15Foam CushioningProximity Sensor Lenses 16Front CoverBack Key Securing Slot Strap Loop Touchpad Volume Key 17• Replace the front cover when you finish using the Gear VR. Caution : Take care not to stand up or move around while the Gear VR is “plugged in”,",
-    "source": "headset_user_manual.pdf",
-    "page": 21
+    "id": "user_manual.pdf_chunk_21",
+    "text": "risk of discomfort. • People who are prone to motion sickness in the real world also have a heightened risk of experiencing discomfort while using the Gear VR. Such individuals should take extra care to read and follow these warnings carefully. • We recommend consulting with a doctor before using the Gear VR if you are pregnant, elderly, have psychiatric disorders, suffer from a heart condition, have pre-existing binocular vision abnormalities or suffer from a heart condition or other serious medical condition. • Do not use the Gear VR if you have symptoms of squint, amblyopia, or anisometropia. Using the",
+    "source": "user_manual.pdf",
+    "page": 10,
+    "title": "About the Gear VR"
   },
   {
-    "text": "as this may cause injury to the user or damage the device.” • You can connect the charger to the charging port on the Gear VR. Use only Samsung-approved USB cables and 2A power adapters. –If you use the Gear VR while the charger is connected, it is powered by the charger and does not use the mobile device’s battery. When you use content that has high power demand (more than 1.0A) while the charger is connected, the Gear VR uses two power sources. In high power demand situations, the Gear VR is powered by the charger and the mobile",
-    "source": "headset_user_manual.pdf",
-    "page": 22
+    "id": "user_manual.pdf_chunk_22",
+    "text": "Gear VR may aggravate these symptoms.",
+    "source": "user_manual.pdf",
+    "page": 10,
+    "title": "About the Gear VR"
   },
   {
-    "text": "device’s battery at the same time. –If the Gear VR is disconnected from the charger while the Gear VR is in use, the image on the screen may be briefly inactive. During this period, the screen recalibrates and the Gear VR may not recognize your head movements. –If you do not use the Gear VR while the charger is connected, the mobile device’s battery charges. 18Function Overview Keys Function Back • Press to return to the previous screen. • Press and hold to access the Universal menu. You can view the status of the Gear VR and configure settings. Volume",
-    "source": "headset_user_manual.pdf",
-    "page": 23
+    "id": "user_manual.pdf_chunk_23",
+    "text": "11• Do not use the Gear VR when the attached mobile device is hot as this may cause burns. To prevent any injuries, take frequent breaks when using the Gear VR. • Make sure the Gear VR is level and secured comfortably on your head, and that you see a single, clear image. If you wear the Gear VR tilted to one side, you may feel discomfort. • Just as with the symptoms people can experience after they disembark a cruise ship, symptoms of virtual reality exposure can persist and become more apparent hours after use. • These post-use symptoms",
+    "source": "user_manual.pdf",
+    "page": 11,
+    "title": "Additional Notifications"
   },
   {
-    "text": "• Press to adjust the volume. Focus Adjustment Wheel• Rotate to focus by adjusting the distance between the mobile device and the Gear VR’s lenses. Touchpad • Swipe across to move around the screen. • Tap to make selections. (Similar to a laptop touchpad) 19Setting Up the Device Installing the straps 1. Insert each end of the strap through the main strap loop on the Gear VR (1). 2. Use the velcro to fasten each end (2). 203. Carefully insert the hook (from the top head strap) into the front bar of the Gear VR (1), then pull it upward",
-    "source": "headset_user_manual.pdf",
-    "page": 24
+    "id": "user_manual.pdf_chunk_24",
+    "text": "can include the symptoms above, as well as excessive drowsiness and decreased ability to multi-task. These symptoms may put you at an increased risk of injury when engaging in normal activities in the real world. About the Gear VR The Samsung Gear™ VR powered by Oculus™ (also referred to as Gear VR) is a headmounted, virtual reality device that provides an immersive experience for a wide range of users. When you connect a compatible mobile device to the Gear VR, you can enjoy multimedia content and play games by launching apps on the mobile device. You can use the Gear",
+    "source": "user_manual.pdf",
+    "page": 11,
+    "title": "Additional Notifications"
   },
   {
-    "text": "until it locks in place (2). The hook snaps when secured. Note: The head strap contains a longer velcro strip and is used to secure the front of the Gear VR frame. 214. Slide the top head strap through the loop (3) and use the velcro to fasten it (4). 34 Note: The head strap contains a longer velcro strip and is used to secure the front of the Gear VR frame. 22Installing the Mobile Device 1. Gently pull the front cover toward you to remove the protective front cover. 232. Gently push the device holder towards the left (1)",
-    "source": "headset_user_manual.pdf",
-    "page": 25
+    "id": "user_manual.pdf_chunk_25",
+    "text": "VR with these compatible mobile devices and use it to interact with other external devices, such as a game controller or a Bluetooth headset.",
+    "source": "user_manual.pdf",
+    "page": 11,
+    "title": "Additional Notifications"
   },
   {
-    "text": "and slide it into either position A or B (2) depending on the size of the mobile device you want to use. ●Position A : is used for either a Samsung Galaxy Note5 or Samsung Galaxy S6 edge+. ●Position B : is used for a Samsung Galaxy S6 or Samsung Galaxy S6 edge. Position APosition B Indicates the current mobile device sizeDevice Holder 243. Verify that your device volume is on and not set to silent. Caution : If you insert the mobile device tilted to one side, it may cause discomfort. 4. Carefully insert the mobile device (face down)",
-    "source": "headset_user_manual.pdf",
-    "page": 26
+    "id": "user_manual.pdf_chunk_26",
+    "text": "12Additional Notifications • The connected mobile device may become hotter than normal when used with the Gear VR, especially if you use the devices to play games for an extended period. When the Gear VR detects a high temperature, the quality of the application may be degraded or VR applications may be terminated in order to prevent overheating. This is normal and does not affect the mobile device’s lifespan or performance. • The mobile device’s battery runtime may become shorter than normal when it is used with the Gear VR since VR applications use more of the device’s resources and",
+    "source": "user_manual.pdf",
+    "page": 12,
+    "title": "Additional Notifications"
   },
   {
-    "text": "at an angle into the center of the Gear VR and then insert the Gear VR connector (1) into the mobile device’s USB port. Note: Ensure that the connector is fully inserted into the mobile device’s USB port. The device makes a sound when properly connected. Caution : Do not forcefully insert the connector into the mobile device as this may damage the connector. Improper installation can scratch the mobile device. 5. While pulling the device holder (right) outward (2), carefully push the opposite end of the mobile device downward (3). 6. Gently push down on the device holder (right)",
-    "source": "headset_user_manual.pdf",
-    "page": 27
+    "id": "user_manual.pdf_chunk_27",
+    "text": "may contribute to battery drain. • You may experience slow loading speed or diminished playback quality in some circumstances, such as after extended use (to prevent the device from overheating) or if your carrier or Wi-Fi network is slow or out of range. • The availability of VR-enabled content and applications and language support may vary by region. Note: Use only Samsung-approved accessories. Using unapproved accessories may cause performance problems and malfunctions that are not covered by the warranty.",
+    "source": "user_manual.pdf",
+    "page": 12,
+    "title": "Additional Notifications"
   },
   {
-    "text": "(4) until the mobile device locks into place. Caution : If the mobile device is not securely locked, the mobile device may accidentally separate from the Gear VR and be damaged. Do not twist or bend the Gear VR’s connector when you connect or disconnect the mobile device. Doing so may damage the connector. 2534Device Holder (left) Device Holder (right) 267. Verify the orientation of the mobile device. Caution : If you insert the mobile device tilted to one side, it may cause discomfort. In this case, the mobile device screen will not be aligned properly to the lenses. Device",
-    "source": "headset_user_manual.pdf",
-    "page": 28
+    "id": "user_manual.pdf_chunk_28",
+    "text": "13Note: Factory lens protectors are pre-installed on the Gear VR. Remove the lens protectors before you use the Gear VR so you can see clearly. Note: When you are not wearing the Gear VR, do not place objects on the internal proximity sensor. Doing so may cause the proximity sensor to remain on and drain the connected mobile device’s battery.",
+    "source": "user_manual.pdf",
+    "page": 13,
+    "title": "Device Functions"
   },
   {
-    "text": "Holder (right) Incorrectly Mounted (misaligned)Correctly MountedAlignment Tabs 27Note: Verify that your device volume is on and not set to silent. If the sound is not emitted when you insert the connector into the mobile device, the Gear VR did not recognize the connection. Carefully reconnect the mobile device until you hear the sound. Caution : Do not leave the Gear VR in direct sunlight. Exposure to direct sunlight can damage the Gear VR and the connected mobile device. Beginning the Software Installation The set up process requires an active network or Wi-Fi connection. 1. After connecting the mobile device and",
-    "source": "headset_user_manual.pdf",
-    "page": 29
+    "id": "user_manual.pdf_chunk_29",
+    "text": "14Device Functions Focus Adjustment Wheel USB Connector Strap Loop Device Holder (left) Charging PortDevice Holder (right) Note: The connected Gear VR does not require charging because it obtains power from the connected mobile device.",
+    "source": "user_manual.pdf",
+    "page": 14,
+    "title": "Device Functions"
   },
   {
-    "text": "the Gear VR for the first time, the mobile device notifies you when to remove the device with an audio message. 2. Follow “Installing Gear VR Software” on page 33 . Important : This software is required to properly use the Gear VR. 28Wearing the Gear VR 1. Align your face and the foam cushion and put on the Gear VR. Caution! Do not walk or drive while wearing the Gear VR. Always be aware of your surroundings while using the Gear VR to avoid injury to yourself or others. 2. Secure the Gear VR to your head with the",
-    "source": "headset_user_manual.pdf",
-    "page": 30
+    "id": "user_manual.pdf_chunk_30",
+    "text": "15Foam CushioningProximity Sensor Lenses",
+    "source": "user_manual.pdf",
+    "page": 15,
+    "title": "Device Functions"
   },
   {
-    "text": "straps and place it comfortably over your face. 3. Adjust the length of the top head strap and the main strap. Caution! If you wear the Gear VR tilted to one side, it may cause discomfort. When the screen is tilted, adjust the Gear VR until the screen becomes clear. 29Removing the Mobile Device Remove the mobile device from the Gear VR when not in use. 1. Remove the protective cover (that aids in securing the mobile device). 2. Carefully pull the device holder (right) outward (1), remove the connected mobile device (2) by carefully sliding it outwards at an",
-    "source": "headset_user_manual.pdf",
-    "page": 31
+    "id": "user_manual.pdf_chunk_31",
+    "text": "16Front CoverBack Key Securing Slot Strap Loop Touchpad Volume Key",
+    "source": "user_manual.pdf",
+    "page": 16,
+    "title": "Device Functions"
   },
   {
-    "text": "angle, and then replace the front cover. 30Connecting a Headset You can connect a headset or a Bluetooth headset to the mobile device when using the Gear VR. Note: Some audio jacks on headphones/earbuds may not fit properly in your mobile device while mounted to the Gear VR. If this is the case, do not force the connector into the mobile device as this may cause damage. Note: Hold the mobile device tightly when connecting the headset. Extra care should be taken if the mobile device is inserted while the device holder (left) is in position B. 31Using the Charger",
-    "source": "headset_user_manual.pdf",
-    "page": 32
+    "id": "user_manual.pdf_chunk_32",
+    "text": "17• Replace the front cover when you finish using the Gear VR. Caution : Take care not to stand up or move around while the Gear VR is “plugged in”, as this may cause injury to the user or damage the device.” • You can connect the charger to the charging port on the Gear VR. Use only Samsung-approved USB cables and 2A power adapters. –If you use the Gear VR while the charger is connected, it is powered by the charger and does not use the mobile device’s battery. When you use content that has high power demand (more",
+    "source": "user_manual.pdf",
+    "page": 17,
+    "title": "Function Overview"
   },
   {
-    "text": "• You can connect the charger to the charging port on the bottom of the Gear VR. Note: Use only Samsung-approved USB cables and 2A power adapters. • If using the Gear VR while the charger is connected: –It is powered by the charger and does not use the mobile device’s battery. When using content that has high power demands (more than 1.5A) while the charger is connected, the Gear VR uses two power sources. –In high power demand situations, the Gear VR is powered by the charger and the mobile device’s battery at the same time. • If the",
-    "source": "headset_user_manual.pdf",
-    "page": 33
+    "id": "user_manual.pdf_chunk_33",
+    "text": "than 1.0A) while the charger is connected, the Gear VR uses two power sources. In high power demand situations, the Gear VR is powered by the charger and the mobile device’s battery at the same time. –If the Gear VR is disconnected from the charger while the Gear VR is in use, the image on the screen may be briefly inactive. During this period, the screen recalibrates and the Gear VR may not recognize your head movements. –If you do not use the Gear VR while the charger is connected, the mobile device’s battery charges.",
+    "source": "user_manual.pdf",
+    "page": 17,
+    "title": "Function Overview"
   },
   {
-    "text": "Gear VR is disconnected from the charger while it is being used: –The image on the screen may be briefly inactive. –During this period, the screen recalibrates and the Gear VR may not recognize your head movements. • If the Gear VR is not used while the charger is connected: –The mobile device’s battery will be charged. 32• To save energy, unplug the charger when not in use. The charger does not have a power switch, so you must unplug the charger from the electric socket when not in use to avoid wasting power. • The charger should remain close",
-    "source": "headset_user_manual.pdf",
-    "page": 34
+    "id": "user_manual.pdf_chunk_34",
+    "text": "18Function Overview Keys Function Back • Press to return to the previous screen. • Press and hold to access the Universal menu. You can view the status of the Gear VR and configure settings. Volume • Press to adjust the volume. Focus Adjustment Wheel• Rotate to focus by adjusting the distance between the mobile device and the Gear VR’s lenses. Touchpad • Swipe across to move around the screen. • Tap to make selections. (Similar to a laptop touchpad)",
+    "source": "user_manual.pdf",
+    "page": 18,
+    "title": "Installing the straps"
   },
   {
-    "text": "to the electric socket and easily accessible while charging. • Replace the front cover once you have finished using the Gear VR. Note: For the safest experience always remain seated when using the Gear VR. Take special care to ensure that you are not near other people, objects, stairs, balconies, windows, furniture,, or other items that you can bump into or knock down when using — or immediately after using—the Gear VR headset. Caution! Take care not to stand up or move around while the Gear VR is “plugged in”, as this may cause injury to the user or damage",
-    "source": "headset_user_manual.pdf",
-    "page": 35
+    "id": "user_manual.pdf_chunk_35",
+    "text": "19Setting Up the Device Installing the straps 1. Insert each end of the strap through the main strap loop on the Gear VR (1). 2. Use the velcro to fasten each end (2).",
+    "source": "user_manual.pdf",
+    "page": 19,
+    "title": "Installing the straps"
   },
   {
-    "text": "the device. 33Installing Gear VR Software You must install the Gear VR software in order to use the Gear VR. When you connect the mobile device to the Gear VR for the first time, the set up process automatically begins. Note: Connect your mobile device to an active network or Wi-Fi connection before performing the setup process. 1. Unlock your mobile device and turn up the volume. 2. Carefully install the compatible mobile device into the Gear VR compartment For more information refer to Installing the Mobile Device . Important : If the mobile device is not connected properly to",
-    "source": "headset_user_manual.pdf",
-    "page": 36
+    "id": "user_manual.pdf_chunk_36",
+    "text": "203. Carefully insert the hook (from the top head strap) into the front bar of the Gear VR (1), then pull it upward until it locks in place (2). The hook snaps when secured. Note: The head strap contains a longer velcro strip and is used to secure the front of the Gear VR frame.",
+    "source": "user_manual.pdf",
+    "page": 20,
+    "title": "Installing the straps"
   },
   {
-    "text": "the Gear VR, you are not prompted to continue with the set up process. 3. At the voice prompt, separate the mobile device from the Gear VR and remove the mobile device. 4. Tap Next on the Welcome screen and follow the prompts. Note: During this initial process, you might be prompted to update your device software. 5. When prompted, tap Install Apps to begin installing selected VR applications. 6. Tap Browse Oculus Store and locate desired apps or media files. - or - Carefully re-connect the mobile device back into the Gear VR. The next step checks whether or",
-    "source": "headset_user_manual.pdf",
-    "page": 37
+    "id": "user_manual.pdf_chunk_37",
+    "text": "214. Slide the top head strap through the loop (3) and use the velcro to fasten it (4). 34 Note: The head strap contains a longer velcro strip and is used to secure the front of the Gear VR frame.",
+    "source": "user_manual.pdf",
+    "page": 21,
+    "title": "Installing the straps"
   },
   {
-    "text": "not you are correctly wearing the Gear VR. Note: If the screen appears tilted or skewed while using the Gear VR, take it off and then place the Gear VR on a flat surface. Wait 5-7 seconds before using it again. 34Completing the Set Up Process 1. Confirm the mobile device is securely mounted into the Gear VR. 2. Read the displayed Health & Safety Warning! information and then use your head to position the on- screen Pointer (crosshair) into the Oculus logo area to continue. 3. Follow the prompts to learn how to: • Position the cursor at desired",
-    "source": "headset_user_manual.pdf",
-    "page": 38
+    "id": "user_manual.pdf_chunk_38",
+    "text": "22Installing the Mobile Device 1. Gently pull the front cover toward you to remove the protective front cover.",
+    "source": "user_manual.pdf",
+    "page": 22,
+    "title": "Installing the straps"
   },
   {
-    "text": "locations. • Use the Touchpad to make selections. • Swipe forward and backward using the Touchpad. • Swipe up and down. • Use the VR’s Back key to return to a previous selection. • Press and hold the Back key to access the Universal menu. Press the Back key again to exit. This menu contains items such as: Oculus Home, Passthrough Camera, Reorient, Do Not Disturb mode, and Brightness. 35Basic Navigation and Selection Using the Touchpad The Touchpad, located at the right side of the Gear VR, is used for both selection and navigation of displayed elements. Making Selections (Tapping)",
-    "source": "headset_user_manual.pdf",
-    "page": 39
+    "id": "user_manual.pdf_chunk_39",
+    "text": "232. Gently push the device holder towards the left (1) and slide it into either position A or B (2) depending on the size of the mobile device you want to use. ●Position A : is used for either a Samsung Galaxy Note5 or Samsung Galaxy S6 edge+. ●Position B : is used for a Samsung Galaxy S6 or Samsung Galaxy S6 edge. Position APosition B Indicates the current mobile device sizeDevice Holder",
+    "source": "user_manual.pdf",
+    "page": 23,
+    "title": "Installing the straps"
   },
   {
-    "text": "1. Move your head to place the pointer on top of the desired item. 2. Tap the touchpad with your finger. Note: When you are not wearing the Gear VR, the touchpad does not work 36Moving Around the screen (Swiping) • Swipe forward across the touchpad to move to the next item. • Swipe backward across the touchpad to view the previous item. Swiping to next item or list item (Forward) Swiping to previous item or list item (Backward) • Swipe downward across the touchpad to move to the next item in a list. 37• Swipe upward across the touchpad",
-    "source": "headset_user_manual.pdf",
-    "page": 40
+    "id": "user_manual.pdf_chunk_40",
+    "text": "243. Verify that your device volume is on and not set to silent. Caution : If you insert the mobile device tilted to one side, it may cause discomfort. 4. Carefully insert the mobile device (face down) at an angle into the center of the Gear VR and then insert the Gear VR connector (1) into the mobile device’s USB port. Note: Ensure that the connector is fully inserted into the mobile device’s USB port. The device makes a sound when properly connected. Caution : Do not forcefully insert the connector into the mobile device as this may damage the",
+    "source": "user_manual.pdf",
+    "page": 24,
+    "title": "Installing the straps"
   },
   {
-    "text": "to move to the previous item in a list. Swiping down to next item (Downward) Swiping up to next item (Upward) Note: Some apps may not support upward or downward swiping actions. 38Moving the Pointer The Gear VR recognizes your head movements and then translates that information as a location within your current screen environment. Some screens may not display a pointer. • Moving your head around also changes the views and perspectives of the current screen. • The pointer and screen views change depending on the detected location of your head.PointerPointer Note: The pointer is centered in your line",
-    "source": "headset_user_manual.pdf",
-    "page": 41
+    "id": "user_manual.pdf_chunk_41",
+    "text": "connector. Improper installation can scratch the mobile device. 5. While pulling the device holder (right) outward (2), carefully push the opposite end of the mobile device downward (3). 6. Gently push down on the device holder (right) (4) until the mobile device locks into place. Caution : If the mobile device is not securely locked, the mobile device may accidentally separate from the Gear VR and be damaged. Do not twist or bend the Gear VR’s connector when you connect or disconnect the mobile device. Doing so may damage the connector.",
+    "source": "user_manual.pdf",
+    "page": 24,
+    "title": "Installing the straps"
   },
   {
-    "text": "sight and follows your head movements. 39Making a Selection You can select items or apps by moving your head and then tapping the touchpad. 1. Move your head to place the displayed pointer onto a desired selection (1). 2. Tap the touchpad (on the right side of the unit) (2). 40Navigation - Home Screen Any time the Gear VR application restarts, you are prompted to read the displayed Health and Safety information and tap the touchpad to accept the terms before proceeding. LibraryStore Recent Apps Application Library Access to Different PagesSamsung Featured ContentOculus Store 41The Oculus Home screen is the",
-    "source": "headset_user_manual.pdf",
-    "page": 42
+    "id": "user_manual.pdf_chunk_42",
+    "text": "2534Device Holder (left) Device Holder (right)",
+    "source": "user_manual.pdf",
+    "page": 25,
+    "title": "Installing the straps"
   },
   {
-    "text": "starting point for accessing Apps, files, and features. From this Home screen you can navigate to any of the three main screens: • HOME screen: Provides access to the Oculus store, Samsung content, Recent apps, and Library (of apps) • STORE screen: Provides access to either All (new downloadable VR applications) or Samsung (providing Samsung Features content). Use either of the available category tabs (All/Samsung) to swipe through the available downloads. • LIBRARY screen: Provides access to all currently installed VR content and applications. Swipe through your available selections and tap the touchpad to activate an app. Navigation - App",
-    "source": "headset_user_manual.pdf",
-    "page": 43
+    "id": "user_manual.pdf_chunk_43",
+    "text": "267. Verify the orientation of the mobile device. Caution : If you insert the mobile device tilted to one side, it may cause discomfort. In this case, the mobile device screen will not be aligned properly to the lenses. Device Holder (right) Incorrectly Mounted (misaligned)Correctly MountedAlignment Tabs",
+    "source": "user_manual.pdf",
+    "page": 26,
+    "title": "Installing the Mobile Device  ................................ 22Beginning the Software Installation"
   },
   {
-    "text": "Screen Once you select an app (from either your Recent Apps or Library screen), you can select additional related options. Launching a Loaded Application 1. From the HOME screen, select Library . 2. Swipe Upwards or downward across the touchpad to move through your available applications. 3. Hover the pointer over an available app, tap the touchpad and select Start . 42Accessing Additional Application Functions 1. From within the Library, scroll upward or downward to locate an installed application. 2. Place your pointer over the View Details key to display the Apps screen, where you can review more detailed information",
-    "source": "headset_user_manual.pdf",
-    "page": 44
+    "id": "user_manual.pdf_chunk_44",
+    "text": "27Note: Verify that your device volume is on and not set to silent. If the sound is not emitted when you insert the connector into the mobile device, the Gear VR did not recognize the connection. Carefully reconnect the mobile device until you hear the sound. Caution : Do not leave the Gear VR in direct sunlight. Exposure to direct sunlight can damage the Gear VR and the connected mobile device. Beginning the Software Installation The set up process requires an active network or Wi-Fi connection. 1. After connecting the mobile device and the Gear VR for the first time,",
+    "source": "user_manual.pdf",
+    "page": 27,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "for the selected app. Oculus Video Comfortable for most Age 13+ Summary Details Media UpdatesUser Ranking Comfort Rating Launch App Access to different pagesAdditional FunctionsRatingApplication Logo 433. This Apps screen provides both useful application information and additional related options such as: • User Ranking : View current user ranking for this application. • Comfort : View the current user comfort rating for this application. • Install/Launch/Play Now : Install an application that is not currently downloaded or Launch/Play the available app. • Additional Functions : -Summary : Review a brief description of the current application. -Details : provides game related",
-    "source": "headset_user_manual.pdf",
-    "page": 45
+    "id": "user_manual.pdf_chunk_45",
+    "text": "the mobile device notifies you when to remove the device with an audio message. 2. Follow “Installing Gear VR Software” on . Important : This software is required to properly use the Gear VR.",
+    "source": "user_manual.pdf",
+    "page": 27,
+    "title": "Wearing the Gear VR"
   },
   {
-    "text": "information such as Genre, Publisher, Developer, Controllers, Game mode, and Number of players. -Media : displays related application images. -Updates : provides access to available application updates. • Rating : provides a reference to the suggested age of the user. 44Using the Universal Menu This menu can be accessed from any active VR application screen and provides access to some very useful features. Note: These features may not be available within some apps. Accessing the Universal Menu 1. From an active application screen, press and hold the Back key. 2. Place the displayed pointer on top of an available entry",
-    "source": "headset_user_manual.pdf",
-    "page": 46
+    "id": "user_manual.pdf_chunk_46",
+    "text": "28Wearing the Gear VR 1. Align your face and the foam cushion and put on the Gear VR. Caution! Do not walk or drive while wearing the Gear VR. Always be aware of your surroundings while using the Gear VR to avoid injury to yourself or others. 2. Secure the Gear VR to your head with the straps and place it comfortably over your face. 3. Adjust the length of the top head strap and the main strap. Caution! If you wear the Gear VR tilted to one side, it may cause discomfort. When the screen is tilted, adjust the",
+    "source": "user_manual.pdf",
+    "page": 28,
+    "title": "Removing the Mobile Device"
   },
   {
-    "text": "and tap the touchpad. Options include: • Oculus Home : Returns you to the Oculus Home screen. • Passthrough Camera : Activates the mobile device’s rear camera and allows you to see through and to the outside environment. • Reorient : Realigns the screen based on the current direction you are facing. • Do Not Disturb (On/Off): When activated, sets the Gear VR to mute the sounds of incoming calls and notifications. Incoming calls do not display and are ignored. Note: The default state of the Do Not Disturb feature is Off. • Brightness : Adjusts the screen brightness. Note:",
-    "source": "headset_user_manual.pdf",
-    "page": 47
+    "id": "user_manual.pdf_chunk_47",
+    "text": "Gear VR until the screen becomes clear.",
+    "source": "user_manual.pdf",
+    "page": 28,
+    "title": "Removing the Mobile Device"
   },
   {
-    "text": "Do not attach the front cover when using the mobile device’s rear camera. 45Charge Status BrightnessDo Not Distrub ReorientSignal Strength Oculus HomePassthrough CameraNotifications 46Going to Oculus Home 1. From an active VR screen or application, press and hold the Back key. 2. Place the pointer on top of Oculus Home , to begin exiting the current app and return to the main Home screen. Using Passthrough Camera This feature activates the mobile device’s rear camera and projects it onto your screen so that you can see your surroundings while wearing the Gear VR. To activate Passthrough Camera: 1. From an",
-    "source": "headset_user_manual.pdf",
-    "page": 48
+    "id": "user_manual.pdf_chunk_48",
+    "text": "29Removing the Mobile Device Remove the mobile device from the Gear VR when not in use. 1. Remove the protective cover (that aids in securing the mobile device). 2. Carefully pull the device holder (right) outward (1), remove the connected mobile device (2) by carefully sliding it outwards at an angle, and then replace the front cover.",
+    "source": "user_manual.pdf",
+    "page": 29,
+    "title": "Connecting a Headset"
   },
   {
-    "text": "active VR screen, press and hold the Back key. 2. Place the pointer on top of Passthrough Camera and tap the touchpad to activate the feature. The screen displays Passthrough Camera: On . To deactivate Passthrough Camera: 1. From the active passthrough screen, place the pointer on top of Passthrough Camera . 2. Tap the touchpad to deactivate the feature and turn off the mobile device’s camera. The screen displays Passthrough Camera: Off . 47Reorienting the Gear VR There may be times when the viewing angle of the screen might change and not display centered in your line of sight.",
-    "source": "headset_user_manual.pdf",
-    "page": 49
+    "id": "user_manual.pdf_chunk_49",
+    "text": "30Connecting a Headset You can connect a headset or a Bluetooth headset to the mobile device when using the Gear VR. Note: Some audio jacks on headphones/earbuds may not fit properly in your mobile device while mounted to the Gear VR. If this is the case, do not force the connector into the mobile device as this may cause damage. Note: Hold the mobile device tightly when connecting the headset. Extra care should be taken if the mobile device is inserted while the device holder (left) is in position B.",
+    "source": "user_manual.pdf",
+    "page": 30,
+    "title": "Using the Charger"
   },
   {
-    "text": "Reorienting the screen resets the viewing angle to match your current line of sight and orientation by resetting the forward location. 1. From an active VR screen, press and hold the Back key. 2. Orient your head to the direction you want to set as the new forward view. 3. Place the pointer on top of Reorient and tap the touchpad to reset the view. Using Do Not Disturb When activated, this feature is enabled. You will not receive any audio notifications and incoming calls are ignored. To activate the Do Not Disturb Mode: 1. From an active VR screen,",
-    "source": "headset_user_manual.pdf",
-    "page": 50
+    "id": "user_manual.pdf_chunk_50",
+    "text": "31Using the Charger • You can connect the charger to the charging port on the bottom of the Gear VR. Note: Use only Samsung-approved USB cables and 2A power adapters. • If using the Gear VR while the charger is connected: –It is powered by the charger and does not use the mobile device’s battery. When using content that has high power demands (more than 1.5A) while the charger is connected, the Gear VR uses two power sources. –In high power demand situations, the Gear VR is powered by the charger and the mobile device’s battery at the same time.",
+    "source": "user_manual.pdf",
+    "page": 31,
+    "title": "Using the Charger"
   },
   {
-    "text": "press and hold the Back key. 2. Place the pointer on top of Do Not Disturb and tap the touchpad to activate the feature. The screen displays Do Not Disturb: On . 48To deactivate the Do Not Disturb Mode: 1. From an active Gear VR screen, press and hold the Back key. 2. Place the pointer on top of Do Not Disturb and tap the touchpad to deactivate the feature. The screen displays Do Not Disturb: Off . Note: Once deactivated, you hear new notifications such as those for new incoming calls. Adjusting Brightness 1. From an active Gear VR",
-    "source": "headset_user_manual.pdf",
-    "page": 51
+    "id": "user_manual.pdf_chunk_51",
+    "text": "• If the Gear VR is disconnected from the charger while it is being used: –The image on the screen may be briefly inactive. –During this period, the screen recalibrates and the Gear VR may not recognize your head movements. • If the Gear VR is not used while the charger is connected: –The mobile device’s battery will be charged.",
+    "source": "user_manual.pdf",
+    "page": 31,
+    "title": "Using the Charger"
   },
   {
-    "text": "screen, press and hold the Back key. 2. Place the pointer on top of Brightness , then position it over the displayed slider. 3. Swipe upward/downward over the touchpad to move the displayed slider up (increase brightness) or down (decrease brightness). 49Calls The icon displays on the screen if you receive a call while you are using the Gear VR. ►You can reject the call, by placing the pointer on top of your selection and tapping the touchpad. ►You cannot answer calls while using the Gear VR. To answer a call, separate the mobile device from the Gear VR and",
-    "source": "headset_user_manual.pdf",
-    "page": 52
+    "id": "user_manual.pdf_chunk_52",
+    "text": "32• To save energy, unplug the charger when not in use. The charger does not have a power switch, so you must unplug the charger from the electric socket when not in use to avoid wasting power. • The charger should remain close to the electric socket and easily accessible while charging. • Replace the front cover once you have finished using the Gear VR. Note: For the safest experience always remain seated when using the Gear VR. Take special care to ensure that you are not near other people, objects, stairs, balconies, windows, furniture,, or other items that you",
+    "source": "user_manual.pdf",
+    "page": 32,
+    "title": "Installing Gear VR Software"
   },
   {
-    "text": "answer the call. Caution! The mobile device may become hotter than normal when it is used with the Gear VR. To avoid overheating of the mobile device, it is recommended you answer incoming calls by connecting an audio headset or by using a speakerphone. Important : If the Do Not Disturb feature (from the Universal menu) is enabled, you are not notified of any new notifications and incoming calls are ignored. Answering a call 4. When a call comes in, move your head to place the pointer on top of Incoming Call to display the caller’s information. 5. Take off",
-    "source": "headset_user_manual.pdf",
-    "page": 53
+    "id": "user_manual.pdf_chunk_53",
+    "text": "can bump into or knock down when using — or immediately after using—the Gear VR headset. Caution! Take care not to stand up or move around while the Gear VR is “plugged in”, as this may cause injury to the user or damage the device.",
+    "source": "user_manual.pdf",
+    "page": 32,
+    "title": "Installing Gear VR Software"
   },
   {
-    "text": "the Gear VR and separate the mobile device from the Gear VR. 6. Answer the call on the mobile device. Note: When you answer a call, the currently running VR app closes. If you do not see the calling pop up on your mobile device, you might have to tap the X at the top of the blank screen to close the current VR app. 50Rejecting a call 1. When a call comes in, move your head to place the pointer on top of Incoming Call . 2. Move your head to place the pointer on top of Reject Call",
-    "source": "headset_user_manual.pdf",
-    "page": 54
+    "id": "user_manual.pdf_chunk_54",
+    "text": "33Installing Gear VR Software You must install the Gear VR software in order to use the Gear VR. When you connect the mobile device to the Gear VR for the first time, the set up process automatically begins. Note: Connect your mobile device to an active network or Wi-Fi connection before performing the setup process. 1. Unlock your mobile device and turn up the volume. 2. Carefully install the compatible mobile device into the Gear VR compartment For more information refer to Installing the Mobile Device . Important : If the mobile device is not connected properly to the Gear",
+    "source": "user_manual.pdf",
+    "page": 33,
+    "title": "Completing the Set Up Process"
   },
   {
-    "text": ". 3. Once the button highlights, tap the touchpad to reject the incoming call. Viewing Notifications While using the Gear VR, you can view general notifications, such as events, messages, and alarms when they display as a pop-up notification on the screen. You can turn on the pop-up messages in the Universal menu. To see more notification details, review them on the mobile device after you separate it from the Gear VR. Note: The Gear VR blocks pop-up messages for notifications when the Do Not Disturb feature is activated. 51Applications Loading New Applications Applications can be loaded from one of",
-    "source": "headset_user_manual.pdf",
-    "page": 55
+    "id": "user_manual.pdf_chunk_55",
+    "text": "VR, you are not prompted to continue with the set up process. 3. At the voice prompt, separate the mobile device from the Gear VR and remove the mobile device. 4. Tap Next on the Welcome screen and follow the prompts. Note: During this initial process, you might be prompted to update your device software. 5. When prompted, tap Install Apps to begin installing selected VR applications. 6. Tap Browse Oculus Store and locate desired apps or media files. - or - Carefully re-connect the mobile device back into the Gear VR. The next step checks whether or not you",
+    "source": "user_manual.pdf",
+    "page": 33,
+    "title": "Completing the Set Up Process"
   },
   {
-    "text": "two locations: • STORE : Found on the HOME screen. • OCULUS app: Available on the mobile device’s Applications page. Loading Using the Gear VR Store 1. Navigate to the HOME screen, place the pointer on the Store tab and tap the touchpad. 2. Select an application type ( All or Samsung ). 3. Swipe through the available pages and select an application entry. 4. Place the pointer over the installation button (FREE or paid) and tap the touchpad to make your selection. 5. Once your application completes loading, select Play. Loading from the Mobile Device 1. From the Home",
-    "source": "headset_user_manual.pdf",
-    "page": 56
+    "id": "user_manual.pdf_chunk_56",
+    "text": "are correctly wearing the Gear VR. Note: If the screen appears tilted or skewed while using the Gear VR, take it off and then place the Gear VR on a flat surface. Wait 5-7 seconds before using it again.",
+    "source": "user_manual.pdf",
+    "page": 33,
+    "title": "Completing the Set Up Process"
   },
   {
-    "text": "screen, tap Apps > Oculus . 2. Tap Menu and select either Library or Store . 3. Scroll to an available application and select Download . 524. Once successfully installed, place the mobile device securely back into the Gear VR compartment (Installing the Mobile Device ). 5. Navigate to the HOME screen, place the pointer on the Library tab and tap the touchpad. 6. Select the application and follow the prompts. Uninstalling Existing Applications You must uninstall applications from the OCULUS application (available on the mobile device’s Applications page). Uninstalling Apps from the Mobile Device: 1. From the mobile device’s",
-    "source": "headset_user_manual.pdf",
-    "page": 57
+    "id": "user_manual.pdf_chunk_57",
+    "text": "34Completing the Set Up Process 1. Confirm the mobile device is securely mounted into the Gear VR. 2. Read the displayed Health & Safety Warning! information and then use your head to position the on- screen Pointer (crosshair) into the Oculus logo area to continue. 3. Follow the prompts to learn how to: • Position the cursor at desired locations. • Use the Touchpad to make selections. • Swipe forward and backward using the Touchpad. • Swipe up and down. • Use the VR’s Back key to return to a previous selection. • Press and hold the Back key to",
+    "source": "user_manual.pdf",
+    "page": 34,
+    "title": "Using the Touchpad"
   },
   {
-    "text": "Home screen, tap Apps > Oculus . 2. Tap Menu and select Library . 3. Scroll to an available application and select UNINSTALL . 4. Once successfully uninstalled, place the mobile device securely back into the Gear VR compartment (Installing the Mobile Device ). Updating Applications You can update default apps and installed apps. 1. From within the Library screen, scroll upwards or downwards to locate an installed application. 2. Place the pointer on the Updates key and follow the prompts. 53Oculus Video Enjoy videos on a screen in your own virtual movie theater. 1. Navigate to the HOME screen,",
-    "source": "headset_user_manual.pdf",
-    "page": 58
+    "id": "user_manual.pdf_chunk_58",
+    "text": "access the Universal menu. Press the Back key again to exit. This menu contains items such as: Oculus Home, Passthrough Camera, Reorient, Do Not Disturb mode, and Brightness.",
+    "source": "user_manual.pdf",
+    "page": 34,
+    "title": "Using the Touchpad"
   },
   {
-    "text": "place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the Oculus Video app displays. 3. Select START and choose a screen category from the top of the page. Videos are sorted based on the screen type. • Shorts : View or download free videos from Oculus that are optimized for a standard screen. • Trailers : View free movie trailers from Oculus that are optimized for a standard screen. • My Videos : View a video stored in the mobile device on a standard screen. 4. Select a video and then choose",
-    "source": "headset_user_manual.pdf",
-    "page": 59
+    "id": "user_manual.pdf_chunk_59",
+    "text": "35Basic Navigation and Selection Using the Touchpad The Touchpad, located at the right side of the Gear VR, is used for both selection and navigation of displayed elements. Making Selections (Tapping) 1. Move your head to place the pointer on top of the desired item. 2. Tap the touchpad with your finger. Note: When you are not wearing the Gear VR, the touchpad does not work",
+    "source": "user_manual.pdf",
+    "page": 35,
+    "title": "Using the Touchpad"
   },
   {
-    "text": "an available surrounding for your movie watching experience. Note: When the video finishes, the next video automatically plays after several seconds. To access the playback controls: 1. While the movie is playing, hover your pointer over the bottom area of the displayed movie and tap the touchpad. 2. Once the controls display, hover over a selection and use the touchpad to activate a function. • / : Pause and resume playback. • / : Rewind or fast-forward a video. Tip: You can also swipe backward across the touchpad to rewind a video or swipe forward across it to fast- forward",
-    "source": "headset_user_manual.pdf",
-    "page": 60
+    "id": "user_manual.pdf_chunk_60",
+    "text": "36Moving Around the screen (Swiping) • Swipe forward across the touchpad to move to the next item. • Swipe backward across the touchpad to view the previous item. Swiping to next item or list item (Forward) Swiping to previous item or list item (Backward) • Swipe downward across the touchpad to move to the next item in a list.",
+    "source": "user_manual.pdf",
+    "page": 36,
+    "title": "Using the Touchpad"
   },
   {
-    "text": "a video. • : View the list of available videos. 54VR Gallery View images and videos you created using the mobile device. 1. Navigate to the HOME screen, place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the VR Gallery app displays. Playing videos ►Select a video folder, then select a video to watch. To access the playback controls: 1. While the movie is playing, hover your pointer over the bottom area of the displayed movie and tap the touchpad. 2. Once the controls display, hover over a selection use the touchpad",
-    "source": "headset_user_manual.pdf",
-    "page": 61
+    "id": "user_manual.pdf_chunk_61",
+    "text": "37• Swipe upward across the touchpad to move to the previous item in a list. Swiping down to next item (Downward) Swiping up to next item (Upward) Note: Some apps may not support upward or downward swiping actions.",
+    "source": "user_manual.pdf",
+    "page": 37,
+    "title": "Moving the Pointer"
   },
   {
-    "text": "to activate a function. • / : Pause and resume playback. • / : Rewind or fast-forward a video. • Rewind video : Swipe backward across the touchpad. • Fast-forward video : Swipe forward across the touchpad. 55Viewing images Select an image folder and then select an image. • View previous image : Swipe backward across the touchpad. • View next image : Swipe foward across the touchpad. • Enlarge image size : Swipe upward on the touchpad. • Reduce image size : Swipe downward on the touchpad. • Start slideshow using current image : Tap Play slideshow . •",
-    "source": "headset_user_manual.pdf",
-    "page": 62
+    "id": "user_manual.pdf_chunk_62",
+    "text": "38Moving the Pointer The Gear VR recognizes your head movements and then translates that information as a location within your current screen environment. Some screens may not display a pointer. • Moving your head around also changes the views and perspectives of the current screen. • The pointer and screen views change depending on the detected location of your head.PointerPointer Note: The pointer is centered in your line sight and follows your head movements.",
+    "source": "user_manual.pdf",
+    "page": 38,
+    "title": "Making a Selection"
   },
   {
-    "text": "Align screen in facing direction : Press the Back key twice. Oculus 360 Videos This application provides 360 degree views of available panoramic videos. 1. Navigate to the HOME screen, place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the Oculus 360 Videos app displays. 3. Select START and choose a video. Turn your head and view a panorama of the video. • View previous video : Swipe backward across the touchpad. • View next video : Swipe forward across the touchpad. • View list of videos : Tap the touchpad twice.",
-    "source": "headset_user_manual.pdf",
-    "page": 63
+    "id": "user_manual.pdf_chunk_63",
+    "text": "39Making a Selection You can select items or apps by moving your head and then tapping the touchpad. 1. Move your head to place the displayed pointer onto a desired selection (1). 2. Tap the touchpad (on the right side of the unit) (2).",
+    "source": "user_manual.pdf",
+    "page": 39,
+    "title": "Navigation - Home Screen"
   },
   {
+    "id": "user_manual.pdf_chunk_64",
+    "text": "40Navigation - Home Screen Any time the Gear VR application restarts, you are prompted to read the displayed Health and Safety information and tap the touchpad to accept the terms before proceeding. LibraryStore Recent Apps Application Library Access to Different PagesSamsung Featured ContentOculus Store",
+    "source": "user_manual.pdf",
+    "page": 40,
+    "title": "Navigation - App Screen"
+  },
+  {
+    "id": "user_manual.pdf_chunk_65",
+    "text": "41The Oculus Home screen is the starting point for accessing Apps, files, and features. From this Home screen you can navigate to any of the three main screens: • HOME screen: Provides access to the Oculus store, Samsung content, Recent apps, and Library (of apps) • STORE screen: Provides access to either All (new downloadable VR applications) or Samsung (providing Samsung Features content). Use either of the available category tabs (All/Samsung) to swipe through the available downloads. • LIBRARY screen: Provides access to all currently installed VR content and applications. Swipe through your available selections and tap the touchpad to",
+    "source": "user_manual.pdf",
+    "page": 41,
+    "title": "Navigation - App Screen"
+  },
+  {
+    "id": "user_manual.pdf_chunk_66",
+    "text": "activate an app. Navigation - App Screen Once you select an app (from either your Recent Apps or Library screen), you can select additional related options. Launching a Loaded Application 1. From the HOME screen, select Library . 2. Swipe Upwards or downward across the touchpad to move through your available applications. 3. Hover the pointer over an available app, tap the touchpad and select Start .",
+    "source": "user_manual.pdf",
+    "page": 41,
+    "title": "Navigation - App Screen"
+  },
+  {
+    "id": "user_manual.pdf_chunk_67",
+    "text": "42Accessing Additional Application Functions 1. From within the Library, scroll upward or downward to locate an installed application. 2. Place your pointer over the View Details key to display the Apps screen, where you can review more detailed information for the selected app. Oculus Video Comfortable for most Age 13+ Summary Details Media UpdatesUser Ranking Comfort Rating Launch App Access to different pagesAdditional FunctionsRatingApplication Logo",
+    "source": "user_manual.pdf",
+    "page": 42,
+    "title": "Navigation - App Screen"
+  },
+  {
+    "id": "user_manual.pdf_chunk_68",
+    "text": "433. This Apps screen provides both useful application information and additional related options such as: • User Ranking : View current user ranking for this application. • Comfort : View the current user comfort rating for this application. • Install/Launch/Play Now : Install an application that is not currently downloaded or Launch/Play the available app. • Additional Functions : -Summary : Review a brief description of the current application. -Details : provides game related information such as Genre, Publisher, Developer, Controllers, Game mode, and Number of players. -Media : displays related application images. -Updates : provides access to available application",
+    "source": "user_manual.pdf",
+    "page": 43,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_69",
+    "text": "updates. • Rating : provides a reference to the suggested age of the user.",
+    "source": "user_manual.pdf",
+    "page": 43,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_70",
+    "text": "44Using the Universal Menu This menu can be accessed from any active VR application screen and provides access to some very useful features. Note: These features may not be available within some apps. Accessing the Universal Menu 1. From an active application screen, press and hold the Back key. 2. Place the displayed pointer on top of an available entry and tap the touchpad. Options include: • Oculus Home : Returns you to the Oculus Home screen. • Passthrough Camera : Activates the mobile device’s rear camera and allows you to see through and to the outside environment. • Reorient",
+    "source": "user_manual.pdf",
+    "page": 44,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_71",
+    "text": ": Realigns the screen based on the current direction you are facing. • Do Not Disturb (On/Off): When activated, sets the Gear VR to mute the sounds of incoming calls and notifications. Incoming calls do not display and are ignored. Note: The default state of the Do Not Disturb feature is Off. • Brightness : Adjusts the screen brightness. Note: Do not attach the front cover when using the mobile device’s rear camera.",
+    "source": "user_manual.pdf",
+    "page": 44,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_72",
+    "text": "45Charge Status BrightnessDo Not Distrub ReorientSignal Strength Oculus HomePassthrough CameraNotifications",
+    "source": "user_manual.pdf",
+    "page": 45,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_73",
+    "text": "46Going to Oculus Home 1. From an active VR screen or application, press and hold the Back key. 2. Place the pointer on top of Oculus Home , to begin exiting the current app and return to the main Home screen. Using Passthrough Camera This feature activates the mobile device’s rear camera and projects it onto your screen so that you can see your surroundings while wearing the Gear VR. To activate Passthrough Camera: 1. From an active VR screen, press and hold the Back key. 2. Place the pointer on top of Passthrough Camera and tap the touchpad to",
+    "source": "user_manual.pdf",
+    "page": 46,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_74",
+    "text": "activate the feature. The screen displays Passthrough Camera: On . To deactivate Passthrough Camera: 1. From the active passthrough screen, place the pointer on top of Passthrough Camera . 2. Tap the touchpad to deactivate the feature and turn off the mobile device’s camera. The screen displays Passthrough Camera: Off .",
+    "source": "user_manual.pdf",
+    "page": 46,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_75",
+    "text": "47Reorienting the Gear VR There may be times when the viewing angle of the screen might change and not display centered in your line of sight. Reorienting the screen resets the viewing angle to match your current line of sight and orientation by resetting the forward location. 1. From an active VR screen, press and hold the Back key. 2. Orient your head to the direction you want to set as the new forward view. 3. Place the pointer on top of Reorient and tap the touchpad to reset the view. Using Do Not Disturb When activated, this feature is",
+    "source": "user_manual.pdf",
+    "page": 47,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_76",
+    "text": "enabled. You will not receive any audio notifications and incoming calls are ignored. To activate the Do Not Disturb Mode: 1. From an active VR screen, press and hold the Back key. 2. Place the pointer on top of Do Not Disturb and tap the touchpad to activate the feature. The screen displays Do Not Disturb: On .",
+    "source": "user_manual.pdf",
+    "page": 47,
+    "title": "Using the Universal Menu"
+  },
+  {
+    "id": "user_manual.pdf_chunk_77",
+    "text": "48To deactivate the Do Not Disturb Mode: 1. From an active Gear VR screen, press and hold the Back key. 2. Place the pointer on top of Do Not Disturb and tap the touchpad to deactivate the feature. The screen displays Do Not Disturb: Off . Note: Once deactivated, you hear new notifications such as those for new incoming calls. Adjusting Brightness 1. From an active Gear VR screen, press and hold the Back key. 2. Place the pointer on top of Brightness , then position it over the displayed slider. 3. Swipe upward/downward over the touchpad to move the",
+    "source": "user_manual.pdf",
+    "page": 48,
+    "title": "Calls"
+  },
+  {
+    "id": "user_manual.pdf_chunk_78",
+    "text": "displayed slider up (increase brightness) or down (decrease brightness).",
+    "source": "user_manual.pdf",
+    "page": 48,
+    "title": "Calls"
+  },
+  {
+    "id": "user_manual.pdf_chunk_79",
+    "text": "49Calls The icon displays on the screen if you receive a call while you are using the Gear VR. ►You can reject the call, by placing the pointer on top of your selection and tapping the touchpad. ►You cannot answer calls while using the Gear VR. To answer a call, separate the mobile device from the Gear VR and answer the call. Caution! The mobile device may become hotter than normal when it is used with the Gear VR. To avoid overheating of the mobile device, it is recommended you answer incoming calls by connecting an audio headset or by",
+    "source": "user_manual.pdf",
+    "page": 49,
+    "title": "Viewing Notifications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_80",
+    "text": "using a speakerphone. Important : If the Do Not Disturb feature (from the Universal menu) is enabled, you are not notified of any new notifications and incoming calls are ignored. Answering a call 4. When a call comes in, move your head to place the pointer on top of Incoming Call to display the caller’s information. 5. Take off the Gear VR and separate the mobile device from the Gear VR. 6. Answer the call on the mobile device. Note: When you answer a call, the currently running VR app closes. If you do not see the calling pop up",
+    "source": "user_manual.pdf",
+    "page": 49,
+    "title": "Viewing Notifications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_81",
+    "text": "on your mobile device, you might have to tap the X at the top of the blank screen to close the current VR app.",
+    "source": "user_manual.pdf",
+    "page": 49,
+    "title": "Viewing Notifications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_82",
+    "text": "50Rejecting a call 1. When a call comes in, move your head to place the pointer on top of Incoming Call . 2. Move your head to place the pointer on top of Reject Call . 3. Once the button highlights, tap the touchpad to reject the incoming call. Viewing Notifications While using the Gear VR, you can view general notifications, such as events, messages, and alarms when they display as a pop-up notification on the screen. You can turn on the pop-up messages in the Universal menu. To see more notification details, review them on the mobile device after",
+    "source": "user_manual.pdf",
+    "page": 50,
+    "title": "Loading New Applications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_83",
+    "text": "you separate it from the Gear VR. Note: The Gear VR blocks pop-up messages for notifications when the Do Not Disturb feature is activated.",
+    "source": "user_manual.pdf",
+    "page": 50,
+    "title": "Loading New Applications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_84",
+    "text": "51Applications Loading New Applications Applications can be loaded from one of two locations: • STORE : Found on the HOME screen. • OCULUS app: Available on the mobile device’s Applications page. Loading Using the Gear VR Store 1. Navigate to the HOME screen, place the pointer on the Store tab and tap the touchpad. 2. Select an application type ( All or Samsung ). 3. Swipe through the available pages and select an application entry. 4. Place the pointer over the installation button (FREE or paid) and tap the touchpad to make your selection. 5. Once your application completes loading,",
+    "source": "user_manual.pdf",
+    "page": 51,
+    "title": "Updating Applications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_85",
+    "text": "select Play. Loading from the Mobile Device 1. From the Home screen, tap Apps > Oculus . 2. Tap Menu and select either Library or Store . 3. Scroll to an available application and select Download .",
+    "source": "user_manual.pdf",
+    "page": 51,
+    "title": "Updating Applications"
+  },
+  {
+    "id": "user_manual.pdf_chunk_86",
+    "text": "524. Once successfully installed, place the mobile device securely back into the Gear VR compartment (Installing the Mobile Device ). 5. Navigate to the HOME screen, place the pointer on the Library tab and tap the touchpad. 6. Select the application and follow the prompts. Uninstalling Existing Applications You must uninstall applications from the OCULUS application (available on the mobile device’s Applications page). Uninstalling Apps from the Mobile Device: 1. From the mobile device’s Home screen, tap Apps > Oculus . 2. Tap Menu and select Library . 3. Scroll to an available application and select UNINSTALL . 4. Once",
+    "source": "user_manual.pdf",
+    "page": 52,
+    "title": "Oculus Video"
+  },
+  {
+    "id": "user_manual.pdf_chunk_87",
+    "text": "successfully uninstalled, place the mobile device securely back into the Gear VR compartment (Installing the Mobile Device ). Updating Applications You can update default apps and installed apps. 1. From within the Library screen, scroll upwards or downwards to locate an installed application. 2. Place the pointer on the Updates key and follow the prompts.",
+    "source": "user_manual.pdf",
+    "page": 52,
+    "title": "Oculus Video"
+  },
+  {
+    "id": "user_manual.pdf_chunk_88",
+    "text": "53Oculus Video Enjoy videos on a screen in your own virtual movie theater. 1. Navigate to the HOME screen, place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the Oculus Video app displays. 3. Select START and choose a screen category from the top of the page. Videos are sorted based on the screen type. • Shorts : View or download free videos from Oculus that are optimized for a standard screen. • Trailers : View free movie trailers from Oculus that are optimized for a standard screen. • My Videos :",
+    "source": "user_manual.pdf",
+    "page": 53,
+    "title": "VR Gallery"
+  },
+  {
+    "id": "user_manual.pdf_chunk_89",
+    "text": "View a video stored in the mobile device on a standard screen. 4. Select a video and then choose an available surrounding for your movie watching experience. Note: When the video finishes, the next video automatically plays after several seconds. To access the playback controls: 1. While the movie is playing, hover your pointer over the bottom area of the displayed movie and tap the touchpad. 2. Once the controls display, hover over a selection and use the touchpad to activate a function. • / : Pause and resume playback. • / : Rewind or fast-forward a video. Tip: You",
+    "source": "user_manual.pdf",
+    "page": 53,
+    "title": "VR Gallery"
+  },
+  {
+    "id": "user_manual.pdf_chunk_90",
+    "text": "can also swipe backward across the touchpad to rewind a video or swipe forward across it to fast- forward a video. • : View the list of available videos.",
+    "source": "user_manual.pdf",
+    "page": 53,
+    "title": "VR Gallery"
+  },
+  {
+    "id": "user_manual.pdf_chunk_91",
+    "text": "54VR Gallery View images and videos you created using the mobile device. 1. Navigate to the HOME screen, place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the VR Gallery app displays. Playing videos ►Select a video folder, then select a video to watch. To access the playback controls: 1. While the movie is playing, hover your pointer over the bottom area of the displayed movie and tap the touchpad. 2. Once the controls display, hover over a selection use the touchpad to activate a function. • / : Pause and resume",
+    "source": "user_manual.pdf",
+    "page": 54,
+    "title": "Oculus 360 Videos"
+  },
+  {
+    "id": "user_manual.pdf_chunk_92",
+    "text": "playback. • / : Rewind or fast-forward a video. • Rewind video : Swipe backward across the touchpad. • Fast-forward video : Swipe forward across the touchpad.",
+    "source": "user_manual.pdf",
+    "page": 54,
+    "title": "Oculus 360 Videos"
+  },
+  {
+    "id": "user_manual.pdf_chunk_93",
+    "text": "55Viewing images Select an image folder and then select an image. • View previous image : Swipe backward across the touchpad. • View next image : Swipe foward across the touchpad. • Enlarge image size : Swipe upward on the touchpad. • Reduce image size : Swipe downward on the touchpad. • Start slideshow using current image : Tap Play slideshow . • Align screen in facing direction : Press the Back key twice. Oculus 360 Videos This application provides 360 degree views of available panoramic videos. 1. Navigate to the HOME screen, place the pointer on the Library button",
+    "source": "user_manual.pdf",
+    "page": 55,
+    "title": "Oculus 360 Photos"
+  },
+  {
+    "id": "user_manual.pdf_chunk_94",
+    "text": "and tap the touchpad. 2. Swipe across your touchpad until the Oculus 360 Videos app displays. 3. Select START and choose a video. Turn your head and view a panorama of the video. • View previous video : Swipe backward across the touchpad. • View next video : Swipe forward across the touchpad. • View list of videos : Tap the touchpad twice.",
+    "source": "user_manual.pdf",
+    "page": 55,
+    "title": "Oculus 360 Photos"
+  },
+  {
+    "id": "user_manual.pdf_chunk_95",
     "text": "56Oculus 360 Photos This application provides 360 degree views of available panoramic images. 1. Navigate to the HOME screen, place the pointer on the Library button and tap the touchpad. 2. Swipe across your touchpad until the Oculus 360 Photos app displays, then select START. 3. Select an available category type, then open a desired image folder, and select an image. Turn your head and view a panorama of the image. While viewing the image, tap the touchpad to use the following features: • / : Navigates through images. -View the previous image : Swipe backward across the touchpad. -:",
-    "source": "headset_user_manual.pdf",
-    "page": 64
+    "source": "user_manual.pdf",
+    "page": 56,
+    "title": "Oculus 360 Photos"
   },
   {
+    "id": "user_manual.pdf_chunk_96",
     "text": "Swipe forward across the touchpad. • Sets the current image as your favorite image.",
-    "source": "headset_user_manual.pdf",
-    "page": 65
+    "source": "user_manual.pdf",
+    "page": 56,
+    "title": "Oculus 360 Photos"
   }
 ]
