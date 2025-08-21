@@ -35,6 +35,7 @@ ROT-RAG-PROJECT/
 ├── test_rag.py              # Root-level API test via HTTP (requests)
 |
 ├── .gitignore
+├── .dockerignore
 ├── Dockerfile               # Containerization support
 ├── LICENSE
 ├── pyproject.toml
