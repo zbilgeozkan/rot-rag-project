@@ -52,6 +52,7 @@ print(f"Index saved to {faiss_index_path}")
 metadata = [
     {
         "id": c["id"],
+        "text": c["text"],
         "source": c["source"],
         "page": c["page"],
         "title": c.get("title", "Unknown")
