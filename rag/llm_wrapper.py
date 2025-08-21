@@ -1,32 +1,39 @@
-import sys
-import os
-sys.path.append(os.path.join(os.path.dirname(__file__)))
-from query_faiss import FAISSQuery
-
 from typing import List
-import os
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+import torch
 
-# OpenAI LLM
-from openai import OpenAI
+# Device selection: use GPU if available
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print("Device set to use", device)
 
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+# Load tokenizer and model
+tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
+model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-base").to(device)
 
-def generate_answer(question: str, passages: List[str]) -> str:
+def generate_answer(question: str, passages: List[str], max_new_tokens: int = 500) -> str:
     """
-    Generate an answer for a given question based on the provided passages.
+    Generate a clear, step-by-step answer for a question using the provided passages.
     """
-    content = "\n\n".join(passages)
-    prompt = f"Use the following passages to answer the question strictly:\n{content}\n\nQuestion: {question}\nAnswer:"
+    context = "\n\n".join(passages)
+    prompt = f"""
+You are an expert VR assistant. Use the passages below to write a detailed, step-by-step guide. Include precautions, tips, and any warnings. Answer in complete sentences.
+- Provide step-by-step instructions if relevant.
+- Include important tips or precautions.
+- Keep the explanation structured and readable.
 
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        temperature=0.2 # deterministic
+Passages:
+{context}
+
+Question: {question}
+
+Answer:
+"""
+    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to(device)
+    output_ids = model.generate(
+        **inputs,
+        max_new_tokens=max_new_tokens,
+        num_beams=4,
+        early_stopping=False
     )
-
-    return response.choices[0].message.content.strip()
+    answer = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+    return answer
