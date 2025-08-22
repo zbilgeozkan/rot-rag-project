@@ -172,7 +172,8 @@ docker run -p 8000:8000 --env-file .env rot-rag-project
 ## Dependencies and Licenses
 
 This project is released under the **MIT License**.  
-Below is a list of the main dependencies and models used, along with their respective licenses:
+It uses several third-party frameworks, libraries, and AI models.  
+Full license texts for these dependencies are available in the `/THIRD_PARTY_LICENSES` folder.
 
 | Library / Component | License | Source |
 |----------------------|---------|--------|
