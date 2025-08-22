@@ -142,7 +142,7 @@ def ingest_all(files, file_type="pdf", chunk_size=100, debug=False):
 
     return all_chunks
 
-# Main - Save to JSON
+# Main - Save as JSON
 if __name__ == "__main__":
     files = ["data/user_manual.pdf"]  # We can also add TXT as comma-separated value
     all_chunks = ingest_all(files, file_type="pdf", debug=False)  # "pdf", "txt" or "both"

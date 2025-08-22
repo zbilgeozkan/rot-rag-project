@@ -1,25 +1,25 @@
 # Core
-numpy==2.3.2
-scipy==1.16.1
-scikit-learn==1.7.1
-sentence-transformers==5.1.0
-torch==2.8.0
-transformers==4.55.2
-faiss-gpu==1.12.0       # Use faiss-cpu if you do not want GPU indexing
-safetensors==0.6.2
-huggingface-hub==0.34.4
+numpy>=2.3.2<3.0
+scipy>=1.16.1
+scikit-learn>=1.7.1
+sentence-transformers>=5.1.0
+torch>=2.8.0
+transformers>=4.55.2
+faiss-gpu>=1.12.0       # Use faiss-cpu if you do not want GPU indexing
+safetensors>=0.6.2
+huggingface-hub>=0.34.4
 
 # File handling
-PyPDF2==3.0.1
-python-dotenv==1.1.1
-requests==2.32.5
+PyPDF2>=3.0.1
+python-dotenv>=1.1.1
+requests>=2.32.5
 
 # FastAPI (if you plan to serve API)
-fastapi==0.116.1
-uvicorn==0.35.0
+fastapi>=0.116.1
+uvicorn>=0.35.0
 
 # Optional
-tqdm==4.67.1
-tokenizers==0.21.4
-pydantic==2.11.7
-pydantic_core==2.33.2
+tqdm>=4.67.1
+tokenizers>=0.21.4
+pydantic>=2.11.7
+pydantic_core>=2.33.2

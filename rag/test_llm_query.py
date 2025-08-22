@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
     # Retrieve passages from FAISS
     faiss_query = FAISSQuery()
-    results = faiss_query.query(question, top_k=3)  # decrease top_k for fewer passages
+    results = faiss_query.query(question, top_k=5)  # decrease top_k for fewer passages
     passages = [r["text"] for r in results]
 
     # Generate detailed answer using the LLM
