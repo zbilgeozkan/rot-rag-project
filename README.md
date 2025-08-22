@@ -1,9 +1,14 @@
 # RoT RAG Project
 
-A **Retrieval Augmented Generation (RAG) pipeline** implemented in Python. Documents are **ingested and split into chunks**, then **embedded using Hugging Face models** and indexed with **FAISS** for fast semantic search.
+Generative AI systems, like **large language models (LLMs)**, are very effective at producing text responses. However, their outputs are often limited to the knowledge present in their training data, which can be weeks, months, or even years out of date. This may result in outdated or incorrect information, especially in a corporate context where specific knowledge about products or services is required.
 
-A **FastAPI backend** exposes an API for querying the indexed documents using a **local Hugging Face LLM** for LLM-generated responses. Includes example scripts for **index building** and **query testing**, and is fully **Docker-ready** for deployment.
+**Retrieval-Augmented Generation (RAG)** addresses this limitation by combining an **LLM** with targeted external data. **RAG** allows the AI to generate responses based not only on its pre-trained knowledge but also on **up-to-date, domain-specific information**. This ensures that answers are more accurate, contextually relevant, and grounded in the latest available data.
 
+## About RoT RAG Project
+
+**The RoT RAG Project** implements a Python-based **RAG** pipeline. Documents are ingested and split into chunks, then embedded using **Hugging Face models** and indexed with **FAISS** for fast semantic search. 
+
+A **FastAPI backend** exposes an API for querying the indexed documents using a local **Hugging Face LLM** for generating responses. The project includes example scripts for index building and query testing, and is fully **Docker-ready for deployment**. By integrating **RAG**, the system ensures that LLM-generated responses are enhanced with the most relevant and **up-to-date** information from the provided documents.
 
 ## Project Structure
 ```
@@ -163,3 +168,30 @@ docker run -p 8000:8000 --env-file .env rot-rag-project
 - Supports GPU acceleration if available. For large datasets, consider using `faiss-gpu`.
 
 - You can also run this project in a container using the provided Dockerfile.
+
+## Dependencies and Licenses
+
+This project is released under the **MIT License**.  
+Below is a list of the main dependencies and models used, along with their respective licenses:
+
+| Library / Component | License | Source |
+|----------------------|---------|--------|
+| **Python Standard Libraries** (os, re, json, sys, pathlib, collections) | Python Software Foundation License | [Python](https://www.python.org/) |
+| **NumPy** | BSD-3-Clause | [NumPy](https://github.com/numpy/numpy) |
+| **SciPy** | BSD-3-Clause | [SciPy](https://github.com/scipy/scipy) |
+| **Scikit-learn** | BSD-3-Clause | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |
+| **PyTorch (torch)** | BSD-3-Clause | [PyTorch](https://github.com/pytorch/pytorch) |
+| **sentence-transformers** | Apache-2.0 | [sentence-transformers](https://github.com/UKPLab/sentence-transformers) |
+| **transformers** | Apache-2.0 | [HuggingFace Transformers](https://github.com/huggingface/transformers) |
+| **tokenizers** | Apache-2.0 | [HuggingFace Tokenizers](https://github.com/huggingface/tokenizers) |
+| **huggingface-hub** | Apache-2.0 | [HuggingFace Hub](https://github.com/huggingface/huggingface_hub) |
+| **faiss** | MIT | [FAISS](https://github.com/facebookresearch/faiss) |
+| **PyPDF2** | BSD-3-Clause | [PyPDF2](https://github.com/py-pdf/PyPDF2) |
+| **fastapi** | MIT | [FastAPI](https://github.com/tiangolo/fastapi) |
+| **uvicorn** | BSD-3-Clause | [uvicorn](https://github.com/encode/uvicorn) |
+| **pydantic** | MIT | [pydantic](https://github.com/pydantic/pydantic) |
+| **requests** | Apache-2.0 | [requests](https://github.com/psf/requests) |
+| **tqdm** | MPL-2.0 | [tqdm](https://github.com/tqdm/tqdm) |
+| **safetensors** | Apache-2.0 | [safetensors](https://github.com/huggingface/safetensors) |
+| **google/flan-t5-base** (LLM model) | Apache-2.0 | [HuggingFace Model](https://huggingface.co/google/flan-t5-base) |
+| **all-MiniLM-L6-v2** (embedding model) | Apache-2.0 | [HuggingFace Model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) |
