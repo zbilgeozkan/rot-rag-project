@@ -1,5 +1,7 @@
 # RoT RAG Project
 
+![Rag](assets/rag_header.png)
+
 Generative AI systems, like **large language models (LLMs)**, are very effective at producing text responses. However, their outputs are often limited to the knowledge present in their training data, which can be weeks, months, or even years out of date. This may result in outdated or incorrect information, especially in a corporate context where specific knowledge about products or services is required.
 
 **Retrieval-Augmented Generation (RAG)** addresses this limitation by combining an **LLM** with targeted external data. **RAG** allows the AI to generate responses based not only on its pre-trained knowledge but also on **up-to-date, domain-specific information**. This ensures that answers are more accurate, contextually relevant, and grounded in the latest available data.
@@ -9,6 +11,8 @@ Generative AI systems, like **large language models (LLMs)**, are very effective
 **The RoT RAG Project** implements a Python-based **RAG** pipeline. Documents are ingested and split into chunks, then embedded using **Hugging Face models** and indexed with **FAISS** for fast semantic search. 
 
 A **FastAPI backend** exposes an API for querying the indexed documents using a local **Hugging Face LLM** for generating responses. The project includes example scripts for index building and query testing, and is fully **Docker-ready for deployment**. By integrating **RAG**, the system ensures that LLM-generated responses are enhanced with the most relevant and **up-to-date** information from the provided documents.
+
+![Flowchart](assets/rotrag_flowchart.drawio.png "Project Flowchart")
 
 ## Project Structure
 ```
