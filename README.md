@@ -12,7 +12,7 @@ Generative AI systems, like **large language models (LLMs)**, are very effective
 
 A **FastAPI backend** exposes an API for querying the indexed documents using a local **Hugging Face LLM** for generating responses. The project includes example scripts for index building and query testing, and is fully **Docker-ready for deployment**. By integrating **RAG**, the system ensures that LLM-generated responses are enhanced with the most relevant and **up-to-date** information from the provided documents.
 
-![Flowchart](assets/rotrag_flowchart.drawio.png "Project Flowchart")
+![Flowchart](assets/rotragflow.drawio.png "Project Flowchart")
 
 ## Project Structure
 ```
