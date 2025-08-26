@@ -25,6 +25,8 @@ class FAISSQuery:
         # Return matched chunks with metadata
         results = []
         for idx, dist in zip(indices[0], distances[0]):
+            if idx < 0 or idx >= len(self.metadata):
+                continue  # IndexError Fix
             chunk_meta = self.metadata[idx]
             results.append({
                 "text": chunk_meta.get("text", ""),
@@ -44,4 +46,4 @@ if __name__ == "__main__":
     output_path = "data/query_result.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
-    print(f"Results saved to {output_path}") 
+    print(f"Results saved to {output_path}")
