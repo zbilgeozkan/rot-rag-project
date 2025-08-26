@@ -5,7 +5,7 @@ from query_faiss import FAISSQuery
 from llm_wrapper import generate_answer
 
 if __name__ == "__main__":
-    question = "What are the safety precautions for using this device?"
+    question = "What should I do if the display does not work?"
 
     # Retrieve passages from FAISS
     faiss_query = FAISSQuery()

@@ -1,5 +1,9 @@
 import json
-from .embed_faiss import retrieve_top_k
+import os
+import sys
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../src')))
+from embed_faiss import retrieve_top_k
 
 def hit_at_k(retrieved, gold_passages):
     for gold in gold_passages:
