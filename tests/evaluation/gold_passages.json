@@ -1,0 +1,56 @@
+[
+  {
+    "query": "Which mobile devices are compatible with the Gear VR?",
+    "gold_passages": [
+      "The Gear VR must be connected with a compatible mobile device when in use. Compatible devices include Samsung Galaxy Note 5, Samsung Galaxy S6 edge+, Samsung Galaxy S6, or Samsung Galaxy S6 edge."
+    ]
+  },
+  {
+    "query": "Does the Gear VR require charging?",
+    "gold_passages": [
+      "The Gear VR does not require charging. The connected Gear VR obtains power from the connected mobile device."
+    ]
+  },
+  {
+    "query": "What should you do if the Gear VR lenses are dirty or foggy?",
+    "gold_passages": [
+      "Keep the lenses clean and protect them from getting scratched. If the lenses get dirty or steam up, clean them with the lens cleaning cloth."
+    ]
+  },
+  {
+    "query": "Can you use the Gear VR while walking or driving?",
+    "gold_passages": [
+      "Never wear the Gear VR in situations that require attention, such as walking, bicycling, or driving."
+    ]
+  },
+  {
+    "query": "How do you install the Gear VR software?",
+    "gold_passages": [
+      "You must install the Gear VR software in order to use the Gear VR. When you connect the mobile device to the Gear VR for the first time, the set up process automatically begins."
+    ]
+  },
+  {
+    "query": "How do you navigate using the Gear VR touchpad?",
+    "gold_passages": [
+      "The Touchpad, located at the right side of the Gear VR, is used for both selection and navigation of displayed elements. Swipe across to move around the screen and tap to make selections."
+    ]
+  },
+  {
+    "query": "What is the Universal Menu in Gear VR?",
+    "gold_passages": [
+      "The Universal Menu can be accessed from any active VR application screen by pressing and holding the Back key. It provides access to features such as Oculus Home, Passthrough Camera, Reorient, Do Not Disturb, and Brightness."
+    ]
+  },
+  {
+    "query": "Can you answer phone calls while using Gear VR?",
+    "gold_passages": [
+      "You cannot answer calls while using the Gear VR. To answer a call, separate the mobile device from the Gear VR and answer the call."
+    ]
+  },
+  {
+    "query": "What is Oculus 360 Photos?",
+    "gold_passages": [
+      "Oculus 360 Photos is an application that provides 360 degree views of available panoramic images. You can turn your head and view a panorama of the image."
+    ]
+  }
+]

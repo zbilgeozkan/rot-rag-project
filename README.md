@@ -129,7 +129,12 @@ results = faiss_query.query("Your question here")
 ]
 ```
 
-- ### Step 4: Test LLM answers with retrieved passages
+- ### Step 4: Test
+```bash
+python rag/llm_wrapper.py
+```
+
+- ### Step 5: Test LLM answers with retrieved passages
 ```bash
 python rag/test_llm_query.py
 ```
@@ -149,13 +154,13 @@ Question: How do I wear the Gear VR headset?
 Answer: Align your face and the foam cushion and put on the Gear VR. Caution! Do not walk or drive while wearing the Gear VR...
 ```
 
-- ### Step 5: Run the API
+- ### Step 6: Run the API
 ```bash
 uvicorn rag.app:app --reload
 ```
 Then open http://127.0.0.1:8000/docs to test the API endpoints.
 
-- ### Step 6: (Optional) Run in Docker
+- ### Step 7: (Optional) Run in Docker
 ```bash
 docker build -t rot-rag-project .
 docker run -p 8000:8000 --env-file .env rot-rag-project

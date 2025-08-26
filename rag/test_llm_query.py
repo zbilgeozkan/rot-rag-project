@@ -5,7 +5,7 @@ from query_faiss import FAISSQuery
 from llm_wrapper import generate_answer
 
 if __name__ == "__main__":
-    question = "How do I wear the Gear VR headset?"
+    question = "What are the safety precautions for using this device?"
 
     # Retrieve passages from FAISS
     faiss_query = FAISSQuery()
@@ -17,3 +17,4 @@ if __name__ == "__main__":
 
     print("\nQuestion:", question)
     print("\nAnswer:", answer)
+

@@ -15,25 +15,25 @@ def generate_answer(question: str, passages: List[str], max_new_tokens: int = 50
     Generate a clear, step-by-step answer for a question using the provided passages.
     """
     context = "\n\n".join(passages)
-    prompt = f"""
-You are an expert VR assistant. Use the passages below to write a detailed, step-by-step guide. Include precautions, tips, and any warnings. Answer in complete sentences.
-- Provide step-by-step instructions if relevant.
-- Include important tips or precautions.
-- Keep the explanation structured and readable.
+    prompt = (
+        f"Context:\n{context}\n\n"
+        f"Question: {question}\n\n"
+        f"Answer (step-by-step, with tips and precautions):"
+    )
 
-Passages:
-{context}
+    inputs = tokenizer(
+        prompt,
+        return_tensors="pt",
+        truncation=True,
+        max_length=1024
+    ).to(device)
 
-Question: {question}
-
-Answer:
-"""
-    inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to(device)
     output_ids = model.generate(
         **inputs,
         max_new_tokens=max_new_tokens,
         num_beams=4,
-        early_stopping=False
+        early_stopping=True
     )
+
     answer = tokenizer.decode(output_ids[0], skip_special_tokens=True)
-    return answer
+    return answer.strip()

@@ -64,3 +64,28 @@ with open("data/faiss_metadata.json", "w", encoding="utf-8") as f:
     json.dump(metadata, f, ensure_ascii=False, indent=2)
 
 print("Metadata saved to data/faiss_metadata.json")
+
+# Retrieval Function for Evaluation
+def load_faiss_index(index_path="data/faiss_index.bin", metadata_path="data/faiss_metadata.json"):
+    """Load FAISS index and metadata."""
+    index = faiss.read_index(index_path)
+    with open(metadata_path, "r", encoding="utf-8") as f:
+        metadata = json.load(f)
+    return index, metadata
+
+
+def retrieve_top_k(query, k=3, index_path="data/faiss_index.bin", metadata_path="data/faiss_metadata.json"):
+    """Retrieve top-k most similar passages for a given query, with scores."""
+    index, metadata = load_faiss_index(index_path, metadata_path)
+
+    query_embedding = model.encode([query], convert_to_numpy=True)
+    distances, indices = index.search(query_embedding, k)
+
+    results = []
+    for score, idx in zip(distances[0], indices[0]):
+        if 0 <= idx < len(metadata):
+            results.append({
+                "text": metadata[idx]["text"],
+                "score": float(score)  # FAISS distance (smaller the better)
+            })
+    return results
