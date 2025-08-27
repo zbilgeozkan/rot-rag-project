@@ -1,5 +1,5 @@
 # Core
-numpy>=2.3.2<3.0
+numpy>=2.3.2,<3.0
 scipy>=1.16.1
 scikit-learn>=1.7.1
 sentence-transformers>=5.1.0
