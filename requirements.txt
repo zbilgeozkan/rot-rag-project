@@ -5,7 +5,7 @@ scikit-learn>=1.7.1
 sentence-transformers>=5.1.0
 torch>=2.8.0
 transformers>=4.55.2
-faiss-gpu>=1.12.0       # Use faiss-cpu if you do not want GPU indexing
+faiss-cpu>=1.12.0       # Use faiss-gpu if you want GPU indexing
 safetensors>=0.6.2
 huggingface-hub>=0.34.4
 
