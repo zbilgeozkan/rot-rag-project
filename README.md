@@ -57,6 +57,11 @@ ROT-RAG-PROJECT/
 
 ## Setup Instructions
 
+To run this project, make sure you have the following installed:
+
+- **Python 3.13.7**
+- **CUDA 12.6** (Optional: Required for GPU acceleration)
+
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/zbilgeozkan/rot-rag-project.git
