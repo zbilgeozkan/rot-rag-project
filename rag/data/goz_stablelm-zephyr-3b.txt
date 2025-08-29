@@ -1,0 +1,38 @@
+##### Results for goz.pdf using LLM: stabilityai/stablelm-zephyr-3b #####
+
+Question: How should I hold the cornea?
+Answer (fast mode): You should hold the cornea from the edge with forceps. (Shape 22)
+Time: 0.69 seconds
+--------------------------------------------------
+Question: How should I cut the cornea?
+Answer (fast mode): According to the provided information, the user should cut the cornea using the sterile punch container. First, the user needs to place the cornea in a sterile punch container, as stated in step 5. Then, the user should follow the instructions given for the specific procedure they are performing, such as Shape 22- Astigmatism Control Procedure or Shape 23- Rope Cutting Process.
+Time: 2.35 seconds
+--------------------------------------------------
+Question: Who stores the cut part of the cornea?
+Answer (fast mode): The user stores the cut part of the cornea in a sterile punch container.
+Time: 0.84 seconds
+--------------------------------------------------
+Question: What stores the cut part of the cornea?
+Answer (fast mode): Information not found.
+Time: 0.33 seconds
+--------------------------------------------------
+Question: Where should I put the cut part of the cornea?
+Answer (fast mode): The cut part of the cornea should be stored in the cornea bank.
+Time: 0.68 seconds
+--------------------------------------------------
+Question: Which suture method should I use?
+Answer (fast mode): Information not found.
+Time: 0.29 seconds
+--------------------------------------------------
+Question: What suture method are we using?
+Answer (fast mode): Information not found.
+Time: 0.30 seconds
+--------------------------------------------------
+Question: Where should I put the peripheral part of the cornea?
+Answer (full mode): You should put the unused peripheral part of the cornea in the petri dish. (Shape 13)
+Time: 0.80 seconds
+--------------------------------------------------
+Question: How can I mark the center of the eye?
+Answer (full mode): Information not found.
+Time: 0.56 seconds
+--------------------------------------------------
