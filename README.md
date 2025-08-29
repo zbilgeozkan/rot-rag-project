@@ -95,6 +95,23 @@ echo "OPENAI_API_KEY=your_api_key_here" > .env
 
 ## Usage
 
+Before running the pipeline, specify the document(s) you want to process inside `ingest.py`:
+
+```python
+files = ["data/user_manual.pdf"]  # Also add TXT files as comma-separated values
+all_chunks = ingest_all(files, file_type="pdf", debug=False)  # "pdf", "txt" or "both"
+```
+
+Replace `"data/user_manual.pdf"` with the path to your own PDF or TXT document.
+
+You can add multiple documents, e.g.:
+
+```python
+files = ["data/manual1.pdf", "data/notes.txt"]
+```
+
+Adjust the `file_type` parameter depending on your input (`"pdf"`, `"txt"`, or `"both"`).
+
 - ### Step 1: Ingest documents
 ```bash
 python src/ingest.py
