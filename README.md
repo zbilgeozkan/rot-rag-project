@@ -173,7 +173,17 @@ This script:
 ```vbnet
 Question: How do I wear the Gear VR headset?
 
-Answer: Align your face and the foam cushion and put on the Gear VR. Caution! Do not walk or drive while wearing the Gear VR...
+Answer:
+1. Align your face and the foam cushion, and put on the Gear VR, being cautious not to walk or drive while wearing it.
+2. Secure the Gear VR to your head with the straps and place it comfortably over your face.
+3. Adjust the length of the top head strap and the main strap to ensure the headset is properly adjusted for your comfort.
+4. Check for any discomfort or screen tilt by adjusting the Gear VR if needed, and be aware of your surroundings to avoid injury to yourself or others.
+5. If you need to remove the Gear VR for any reason, wait 5-7 seconds before using it again to prevent damage to the headset.
+
+Tips:
+- Do not place objects on the proximity sensor while the Gear VR is not in use, as this may drain the battery.
+- Always read and follow the set up and operating instructions provided with the Gear VR.
+- Adjust the Gear VR for each individual user and calibrate it using the configuration software (if available) before starting a virtual reality experience.
 ```
 
 - ### Step 6: Run the API
