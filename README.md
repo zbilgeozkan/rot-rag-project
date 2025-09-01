@@ -170,7 +170,7 @@ This script:
 3. Prints the answer in the console.
 
 * Example output:
-```vbnet
+```console
 Question: How do I wear the Gear VR headset?
 
 Answer:
